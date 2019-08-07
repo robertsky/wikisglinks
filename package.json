@@ -1,0 +1,16 @@
+{
+  "name": "wikisglinks",
+  "version": "1.0.0",
+  "description": "Generate suitable list(s) for wikiproject singapore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robertsky",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "lodash": "^4.17.15",
+    "wikijs": "^6.0.0"
+  }
+}
