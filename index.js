@@ -24,6 +24,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     }
 }, {concurrency: 100}).delay(5000).then(function(){
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
+    writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n');
     writeFile.write('==0-9==\n')
     writeFile.write('{{div col|colwidth=25em}}\n');
     var headingPosition = 0;
@@ -31,6 +32,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
         const firstChar = title.charAt(0);
         if (firstChar === headings.charAt(headingPosition)) {
             writeFile.write('{{div col end}}\n\n');
+            writeFile.write('{{alphanumeric TOC|numbers=yes|align=center|top=yes}}\n');
             writeFile.write('==' + headings.charAt(headingPosition) + '==\n');
             writeFile.write('{{div col|colwidth=25em}}\n');
             headingPosition++;
