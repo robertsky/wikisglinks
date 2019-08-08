@@ -2,7 +2,7 @@ const _ = require('lodash');
 const Promise = require('bluebird');
 const wiki = require('wikijs').default;
 const waitFor = (ms) => new Promise(r => setTimeout(r, ms))
-const writeFile = require('fs').createWriteStream("pages3.txt", {flags:'a'});
+const writeFile = require('fs').createWriteStream("pages3.txt", {flags:'w'});
 var outputArray = [];
 var headings = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
