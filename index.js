@@ -22,7 +22,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
             return 'write';
         });
     }
-}, {concurrency: 100}).delay(5000).then(function(){
+}, {concurrency: 50}).delay(5000).then(function(){
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
     writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n');
     writeFile.write('==0-9==\n')
