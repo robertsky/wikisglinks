@@ -24,7 +24,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     }
 }, {concurrency: 100}).delay(5000).then(function(){
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
-    writeFile.write("<!--This is a '''list of [[Singapore]]-related articles by alphabetical order'''. For a list by topic, see [[list of Singapore-related topics]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:SGpedians' notice board/complete to do|here]].-->\n");
+    writeFile.write("This is a '''list of [[Singapore]]-related articles by alphabetical order'''. For a list by topic, see [[list of Singapore-related topics]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:SGpedians' notice board/complete to do|here]].\n\n");
     writeFile.write("Articles related to '''[[Singapore]]''' include:\n");
     writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n');
     writeFile.write('==0-9==\n')
