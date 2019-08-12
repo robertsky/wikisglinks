@@ -24,6 +24,8 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     }
 }, {concurrency: 100}).delay(5000).then(function(){
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
+    writeFile.write("<!--This is a '''list of [[Singapore]]-related articles by alphabetical order'''. For a list by topic, see [[list of Singapore-related topics]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:SGpedians' notice board/complete to do|here]].-->\n");
+    writeFile.write("Articles related to '''[[Singapore]]''' include:\n");
     writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n');
     writeFile.write('==0-9==\n')
     writeFile.write('{{div col|colwidth=25em}}\n');
@@ -31,7 +33,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     outputArray.forEach((title) => {
         const firstChar = title.charAt(0);
         if (firstChar === headings.charAt(headingPosition)) {
-            writeFile.write('{{div col end}}\n\n');
+            writeFile.write('{{div col end}}\n');
             writeFile.write('{{alphanumeric TOC|numbers=yes|align=center|top=yes}}\n');
             writeFile.write('==' + headings.charAt(headingPosition) + '==\n');
             writeFile.write('{{div col|colwidth=25em}}\n');
@@ -40,4 +42,11 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
         writeFile.write('* [[' + title + ']]\n');
     })
     writeFile.write('{{div col end}}\n');
+    writeFile.write("==See also==\n");
+    writeFile.write("*[[List of Singapore-related topics]]\n");
+    writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n\n");
+    writeFile.write("{{Index footer}}\n\n");
+    writeFile.write("{{DEFAULTSORT:Index Of Singapore-Related Articles}}\n");
+    writeFile.write("[[Category:Singapore-related lists]]\n");
+    writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
 });
