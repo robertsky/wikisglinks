@@ -497,6 +497,7 @@
 21st-century Singaporean writers‎
 Academia in Singapore‎
 Accidental deaths in Singapore‎
+Accidents and incidents involving Mass Rapid Transit (Singapore)‎
 Active amphibious warfare vessels of Singapore‎
 Active minehunters of Singapore‎
 Active ships of Singapore‎
@@ -1207,6 +1208,11 @@ LGBT rights activists from Singapore‎
 LGBT rights in Singapore‎
 Liberal parties in Singapore‎
 Libraries in Singapore‎
+Light rail in Singapore‎
+Light Rail Transit (Singapore)
+Light Rail Transit (Singapore) depots‎
+Light Rail Transit (Singapore) lines‎
+Light Rail Transit (Singapore) rolling stock‎
 Light Rail Transit (Singapore) stations‎
 Lighthouses in Singapore‎
 Lim Chu Kang‎
@@ -1236,7 +1242,7 @@ Logos of airports in Singapore‎
 Lorong Halus‎
 Loyang, Singapore‎
 LRT stations in Punggol‎
-LRT stations in Sengkang‎
+LRT stations in Sengkang
 LRT stations of Bukit Panjang LRT Line‎
 Machine guns of Singapore‎
 Madrasahs in Singapore‎
@@ -1257,7 +1263,10 @@ Marina South‎
 Marine Parade‎
 Maritime incidents in Singapore‎
 Marriage, unions and partnerships in Singapore‎
+Mass Rapid Transit (Singapore)
 Mass Rapid Transit (Singapore) depots‎
+Mass Rapid Transit (Singapore) lines‎
+Mass Rapid Transit (Singapore) rolling stock‎
 Mass Rapid Transit (Singapore) stations‎
 Massacres in Singapore‎
 Maternity in Singapore‎
@@ -1511,6 +1520,10 @@ Railway stations in Serangoon‎
 Railway stations in Singapore‎
 Railways of amusement parks in Singapore‎
 Rajas of Singapore‎
+Rapid transit in Singapore
+Rapid transit in Singapore‎
+Rapid transit lines in Singapore‎
+Rapid transit stations in Singapore‎
 Real estate companies of Singapore‎
 Red-light districts in Singapore‎
 Redeveloped ports and waterfronts in Singapore‎
@@ -2344,7 +2357,7 @@ Tourist attractions in Singapore‎
 Towers in Singapore‎
 Trade fairs in Singapore‎
 Trade unions in Singapore‎
-Tram transport in Singapore‎
+Tram transport in Singapore
 Transport companies of Singapore‎
 Transport disasters in Singapore‎
 Transport in Central Region, Singapore‎
@@ -2363,6 +2376,7 @@ Tuas‎
 Tunisian expatriates in Singapore‎
 Turf Clubs in Singapore‎
 Twin people from Singapore‎
+Underground rapid transit in Singapore‎
 United Nations Security Council resolutions concerning Singapore‎
 United People's Party (Singapore) politicians‎
 Universal Studios Singapore‎
