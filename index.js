@@ -12,7 +12,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
         wiki({
             apiUrl: 'https://en.wikipedia.org/w/api.php'
         }).pagesInCategory('Category:' + cat).then(function(result) {
-            var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('Template:') && !title.startsWith('User:') && !title.startsWith('Draft:')));
+            var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:')));
             console.log(cat +' length: ' + filteredResult.length);
             filteredResult.forEach(function(val,idx) {
                 this[idx] = val.replace(/^Talk\:/, '');

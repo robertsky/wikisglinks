@@ -804,6 +804,7 @@ Corrinne May albums‎
 Corruption in Singapore‎
 Cosmetics companies of Singapore‎
 Counter-terrorism in Singapore‎
+Country data templates of Singapore‎
 Court of Appeal of Singapore cases‎
 Courts in Singapore‎
 Creative Technology Limited acquisitions‎
@@ -1655,6 +1656,7 @@ Singapore Airlines‎
 Singapore and the Commonwealth of Nations‎
 Singapore and the United Nations‎
 Singapore Army‎
+Singapore arts and entertainment templates‎
 Singapore at the AFC Asian Cup‎
 Singapore at the Asian Beach Games‎
 Singapore at the Asian Games‎
@@ -1670,6 +1672,9 @@ Singapore at the World Aquatics Championships‎
 Singapore at the World Championships in Athletics‎
 Singapore at the Youth Olympics‎
 Singapore ATP Challenger‎
+Singapore aviation templates‎
+Singapore buildings and structures templates‎
+Singapore business, company and finance templates‎
 Singapore Changi Airport‎
 Singapore chess players‎
 Singapore Chinese dramas‎
@@ -1679,25 +1684,43 @@ Singapore crime-related lists‎
 Singapore Cup‎
 Singapore Democratic Party politicians‎
 Singapore diplomacy-related lists‎
+Singapore economics templates‎
+Singapore education templates‎
 Singapore education-related lists‎
+Singapore election results templates‎
 Singapore Exchange‎
+Singapore external link templates‎
 Singapore FA players‎
 Singapore FA‎
+Singapore football club navigational boxes‎
+Singapore football club templates‎
+Singapore football manager templates‎
+Singapore football squad templates‎
+Singapore football standings templates‎
+Singapore football templates‎
+Singapore geography and place templates‎
 Singapore geography stubs‎
 Singapore geography-related lists‎
 Singapore government policies‎
 Singapore Grand Prix‎
+Singapore history and events templates‎
 Singapore history-related lists‎
 Singapore Hokkien Huay Kuan schools‎
+Singapore infobox templates‎
 Singapore Institute of Management‎
 Singapore International Film Festival‎
 Singapore international footballers‎
+Singapore law templates‎
 Singapore law-related lists‎
+Singapore League Cup table templates‎
 Singapore League Cup‎
 Singapore Literature Prize winners‎
 Singapore Literature Prize‎
 Singapore LRT stubs‎
 Singapore Management University‎
+Singapore media templates‎
+Singapore military ship templates‎
+Singapore military templates‎
 Singapore MRT stubs‎
 Singapore National Football League‎
 Singapore national football team managers‎
@@ -1708,10 +1731,16 @@ Singapore Open (badminton)‎
 Singapore Open (men's tennis)‎
 Singapore opera companies‎
 Singapore organisation stubs‎
+Singapore people and person templates‎
 Singapore People's Alliance politicians‎
 Singapore People's Party politicians‎
 Singapore Police Force‎
+Singapore political party colour templates‎
+Singapore political party name templates‎
+Singapore political party shortname templates‎
 Singapore political party symbols‎
+Singapore political party templates‎
+Singapore politics and government templates‎
 Singapore politics-related lists‎
 Singapore Premier League clubs‎
 Singapore Premier League head coaches‎
@@ -1720,21 +1749,34 @@ Singapore Premier League seasons‎
 Singapore Premier League venues‎
 Singapore Premier League‎
 Singapore Press Holdings‎
+Singapore rail transport color templates‎
 Singapore rail transport navbox‎
+Singapore rail transport succession templates‎
+Singapore rail transport templates‎
+Singapore religion and belief templates‎
 Singapore religious cases‎
 Singapore River‎
 Singapore Slammers seasons‎
 Singapore Slingers players‎
 Singapore Slingers seasons‎
 Singapore Slingers‎
+Singapore society and social science templates‎
 Singapore sport-related lists‎
 Singapore sports governing body logos‎
 Singapore Sports School‎
+Singapore sports templates‎
+Singapore stub templates‎
 Singapore stubs‎
+Singapore subdivision templates‎
 Singapore Tamil dramas‎
+Singapore television series templates‎
+Singapore templates‎
+Singapore transport route diagram templates‎
 Singapore transport stubs‎
+Singapore transport templates‎
 Singapore transport-related lists‎
 Singapore University of Social Sciences‎
+Singapore user templates‎
 Singapore women Twenty20 International cricketers‎
 Singapore women's national cricket team‎
 Singapore Zoo‎
@@ -1818,7 +1860,7 @@ Singaporean comics titles‎
 Singaporean communists‎
 Singaporean companies established in 1968
 Singaporean companies established in 1969
-SIngaporean companies established in 1971‎
+Singaporean companies established in 1971‎
 Singaporean companies established in 1975
 Singaporean companies established in 1977
 Singaporean companies established in 1980
@@ -1929,6 +1971,7 @@ Singaporean female weightlifters‎
 Singaporean fiction‎
 Singaporean figure skaters‎
 Singaporean film actresses‎
+Singaporean film director navigational boxes‎
 Singaporean film directors‎
 Singaporean film editors‎
 Singaporean film people‎
@@ -2253,6 +2296,7 @@ Singaporean women writers‎
 Singaporean women's footballers‎
 Singaporean women's rights activists‎
 Singaporean women‎
+Singaporean writer navigational boxes‎
 Singaporean writers‎
 Singaporean wuxia television series‎
 Singaporean YouTubers‎
@@ -2449,6 +2493,7 @@ West Region, Singapore‎
 Western Islands Planning Area‎
 Western Water Catchment‎
 Wetlands of Singapore‎
+WikiProject Singapore templates‎
 WOHA‎
 Women government ministers of Singapore‎
 Women in Singapore‎
@@ -2469,6 +2514,7 @@ World War II sites in Singapore‎
 Wormrot albums‎
 Wrestling in Singapore‎
 WTA Singapore Open‎
+Years in Singaporean football templates‎
 Years in Singapore‎
 Years of the 20th century in Singapore‎
 Years of the 21st century in Singapore‎
