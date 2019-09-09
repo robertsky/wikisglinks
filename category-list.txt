@@ -673,7 +673,6 @@ British emigrants to Singapore‎
 British expatriates in Singapore‎
 British people of Singaporean descent‎
 British rule in Singapore‎
-British ships built in Singapore‎
 Broadcasting in Singapore‎
 Bronze sculptures in Singapore‎
 Brunei–Singapore relations‎
@@ -1638,7 +1637,6 @@ Service companies of Singapore‎
 Sexuality in Singapore‎
 Shipbuilding companies of Singapore‎
 Shipping companies of Singapore‎
-Ships built in Singapore‎
 Ships of Singapore‎
 Ships of the Republic of Singapore Navy‎
 Ships transferred from the United States Navy to the Republic of Singapore Navy‎
@@ -1696,7 +1694,7 @@ Singapore football club navigational boxes‎
 Singapore football club templates‎
 Singapore football manager templates‎
 Singapore football squad templates‎
-Singapore football standings templates‎
+Singapore football standings templates
 Singapore football templates‎
 Singapore geography and place templates‎
 Singapore geography stubs‎
@@ -1866,6 +1864,7 @@ Singaporean companies established in 1977
 Singaporean companies established in 1980
 Singaporean companies established in 1981
 Singaporean companies established in 1989
+Singaporean companies established in 1996
 Singaporean companies established in 1998
 Singaporean companies established in 1999
 Singaporean companies established in 2000
