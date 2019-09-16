@@ -19,6 +19,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
                 this[idx] = val.replace(/^Book talk\:/,'Book:');
                 switch(val) {
                     case 'Singapore Armed Forces Training Institute':
+                    case 'Judge of Singapore':
                         this[idx] = val +' (disambiguation)';
                 }
             }, filteredResult);
