@@ -10,7 +10,8 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     if (!!cat && cat.length > 0) {
         await waitFor(3000)
         wiki({
-            apiUrl: 'https://en.wikipedia.org/w/api.php'
+            apiUrl: 'https://en.wikipedia.org/w/api.php',
+            headers: { 'User-Agent': 'WikiSgLinksBot/0.1 (https://github.com/robertsky/wikisglinks) wikijs/6.0.1' }
         }).pagesInCategory('Category:' + cat).then(function(result) {
             var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:')));
             console.log(cat +' length: ' + filteredResult.length);
@@ -31,7 +32,7 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
             return 'write';
         });
     }
-}, {concurrency: 100}).delay(5000).then(function(){
+}, {concurrency: 200}).delay(5000).then(function(){
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
     writeFile.write("{{use Singapore English|date=August 2019}}\n");
     writeFile.write("{{use dmy dates|date=August 2019}}\n");

@@ -9,8 +9,8 @@
   "author": "robertsky",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.5",
+    "bluebird": "^3.7.2",
     "lodash": "^4.17.15",
-    "wikijs": "^6.0.0"
+    "wikijs": "^6.0.1"
   }
 }
