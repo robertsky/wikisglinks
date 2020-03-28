@@ -399,6 +399,7 @@
 2011 in Singaporean women's sport‎
 2011 in Singapore‎
 2011–12 in Singaporean basketball‎
+2012 Hassanal Bolkiah Trophy‎
 2012 Singaporean television seasons‎
 2012 Singaporean television series debuts‎
 2012 Singaporean television series endings‎
@@ -408,6 +409,7 @@
 2012 in Singaporean sport‎
 2012 in Singapore‎
 2012–13 in Singaporean basketball‎
+2013 Singapore Cup
 2013 Singaporean television seasons‎
 2013 Singaporean television series debuts‎
 2013 Singaporean television series endings‎
@@ -419,6 +421,7 @@
 2013 in Singaporean women's sport‎
 2013 in Singapore‎
 2013–14 in Singaporean basketball‎
+2014 Hassanal Bolkiah Trophy‎
 2014 Singaporean television seasons‎
 2014 Singaporean television series debuts‎
 2014 Singaporean television series endings‎
@@ -433,6 +436,8 @@
 2015 Singaporean television seasons‎
 2015 Singaporean television series debuts‎
 2015 Singaporean television series endings‎
+2015 Southeast Asian Games football convenience templates‎
+2015 Southeast Asian Games football templates
 2015 Southeast Asian Games‎
 2015 disestablishments in Singapore
 2015 establishments in Singapore‎
@@ -462,6 +467,7 @@
 2017 in Singaporean women's sport‎
 2017 in Singapore‎
 2017–18 in Singaporean basketball‎
+2018 Hassanal Bolkiah Trophy‎
 2018 Singaporean television series debuts‎
 2018 Singaporean television series endings‎
 2018 disestablishments in Singapore‎
@@ -530,6 +536,8 @@ Agriculture in Singapore‎
 Ahmadiyya mosques in Singapore‎
 Airlines of Singapore‎
 Airports in Singapore‎
+Albirex Niigata Singapore FC managers
+Albirex Niigata Singapore FC players‎
 Alcohol in Singapore‎
 Algerian expatriate sportspeople in Singapore‎
 Algerian expatriates in Singapore‎
@@ -631,6 +639,7 @@ Artillery of Singapore‎
 Arts centres in Singapore‎
 Arts festivals in Singapore‎
 Arts in Singapore‎
+Arts schools in Singapore
 Asian Civilisations Museum‎
 Asian Games competitors for Singapore‎
 Assault rifles of Singapore‎
@@ -654,6 +663,8 @@ Aviation schools in Singapore‎
 Badminton in Singapore‎
 Badminton tournaments in Singapore‎
 Bakeries of Singapore‎
+Balestier Khalsa FC head coaches‎
+Balestier Khalsa FC players
 Bangladesh–Singapore relations‎
 Banking in Singapore‎
 Banknotes of Singapore‎
@@ -1011,11 +1022,16 @@ Food and drink companies of Singapore‎
 Food and drink festivals in Singapore‎
 Food court in Singapore‎
 Food manufacturers of Singapore‎
+Football at the 2015 Southeast Asian Games‎
 Football clubs in Singapore‎
 Football competitions in Singapore‎
 Football in Singapore‎
 Football leagues in Singapore‎
+Football managers in Singapore by club‎
+Football people in Singapore‎
 Football venues in Singapore‎
+Footballers in Singapore by club‎
+Footballers in Singapore‎
 Foreign relations of Singapore‎
 Foreign trade of Singapore‎
 Formation of Malaysia‎
@@ -1048,10 +1064,14 @@ Geology of Singapore‎
 German expatriate sportspeople in Singapore‎
 German expatriates in Singapore‎
 Germany–Singapore relations‎
+Geylang International FC head coaches
+Geylang International FC players‎
 Geylang‎
 Ghanaian expatriate sportspeople in Singapore‎
 Girls' schools in Singapore‎
 Golf tournaments in Singapore‎
+Gombak United FC head coaches
+Gombak United FC players‎
 Government buildings in Singapore‎
 Government ministers of Singapore‎
 Government ministries of Singapore‎
@@ -1064,6 +1084,7 @@ Guinean emigrants to Singapore‎
 Gurdwaras in Singapore‎
 Gurkha Contingent‎
 Guyanese expatriate sportspeople in Singapore‎
+Gymkhana FC players‎
 Gymnastics in Singapore‎
 Haitian expatriate sportspeople in Singapore‎
 Hakka culture in Singapore‎
@@ -1124,6 +1145,8 @@ Hot springs of Singapore‎
 Hotel and leisure companies based in Singapore‎
 Hotel chains in Singapore
 Hotels in Singapore‎
+Hougang United FC head coaches‎
+Hougang United FC players‎
 Hougang‎
 Houses in Singapore‎
 Housing estates in Singapore‎
@@ -1221,6 +1244,8 @@ Judo competitions in Singapore‎
 Junior colleges in Singapore‎
 Jurong Bird Park‎
 Jurong East‎
+Jurong FC head coaches‎
+Jurong FC players‎
 Jurong Island‎
 Jurong West‎
 Jurong‎
@@ -1676,15 +1701,19 @@ Science museums in Singapore‎
 Scientific organisations based in Singapore‎
 Scottish expatriate sportspeople in Singapore‎
 Scouting and Guiding in Singapore‎
+Seasons in Singaporean football competitions‎
 Seasons in Singaporean football‎
 Secondary schools in Singapore‎
 Secret societies in Singapore‎
 Security companies of Singapore‎
 Seletar‎
 Self-propelled artillery of Singapore‎
+Sembawang Rangers FC head coaches‎
+Sembawang Rangers FC players‎
 Sembawang‎
 Semiconductor companies of Singapore‎
 Seminaries and theological colleges in Singapore‎
+Sengkang Punggol FC managers‎
 Sengkang Sports Centre‎
 Sengkang Town Centre‎
 Sengkang‎
@@ -1716,6 +1745,7 @@ Singapore Airlines‎
 Singapore Army‎
 Singapore Changi Airport‎
 Singapore Chinese dramas‎
+Singapore Cup seasons‎
 Singapore Cup‎
 Singapore Democratic Party politicians‎
 Singapore Exchange‎
@@ -1726,6 +1756,7 @@ Singapore Hokkien Huay Kuan schools‎
 Singapore Institute of Management‎
 Singapore International Film Festival‎
 Singapore LRT stubs‎
+Singapore League Cup seasons
 Singapore League Cup table templates‎
 Singapore League Cup‎
 Singapore Literature Prize winners‎
@@ -2085,10 +2116,27 @@ Singaporean films‎
 Singaporean financial businesspeople
 Singaporean flautists‎
 Singaporean football biography stubs‎
+Singaporean football club seasons by year
+Singaporean football clubs 1996 season
+Singaporean football clubs 1996 season‎
+Singaporean football clubs 2008 season‎
+Singaporean football clubs 2009 season‎ 
+Singaporean football clubs 2010 season‎
+Singaporean football clubs 2011 season‎
+Singaporean football clubs 2012 season‎
+Singaporean football clubs 2013 season
+Singaporean football clubs 2014 season
+Singaporean football clubs 2015 season‎
+Singaporean football clubs 2016 season‎
+Singaporean football clubs 2017 season
+Singaporean football clubs 2018 season‎
+Singaporean football clubs 2019 season‎
 Singaporean football clubs 2020 season
+Singaporean football clubs 2020 season‎
 Singaporean football logos‎
 Singaporean football managers‎
 Singaporean football referees‎
+Singaporean footballers
 Singaporean footballers‎
 Singaporean fusion cuisine‎
 Singaporean general practitioners‎
@@ -2396,6 +2444,7 @@ Singaporean women painters
 Singaporean women scientists‎
 Singaporean women short story writers‎
 Singaporean women writers‎
+Singaporean women's footballers
 Singaporean women's footballers‎
 Singaporean women's rights activists‎
 Singaporean women‎
@@ -2481,8 +2530,12 @@ Taekwondo in Singapore‎
 Taiwanese emigrants to Singapore‎
 Taiwanese expatriates in Singapore‎
 Tamil Singaporean‎
+Tampines Rovers FC head coaches‎
+Tampines Rovers FC players
 Tampines‎
 Tanglin‎
+Tanjong Pagar United FC head coaches‎
+Tanjong Pagar United FC players‎
 Tanjong Pagar‎
 Tanya Chua albums‎
 Taoism in Singapore‎
@@ -2491,6 +2544,7 @@ Taxation in Singapore‎
 Taxicabs of Singapore‎
 Tay Kewei albums‎
 Teaching hospitals in Singapore‎
+Technical universities and colleges in Singapore
 Technology companies of Singapore‎
 Telecommunications companies of Singapore‎
 Telecommunications in Singapore‎
@@ -2556,6 +2610,7 @@ Underground rapid transit in Singapore‎
 United Nations Security Council resolutions concerning Singapore‎
 United People's Party (Singapore) politicians‎
 Universal Studios Singapore‎
+Universities and colleges in Singapore by type
 Universities and colleges in Singapore‎
 Universities in Singapore‎
 University of Singapore‎
@@ -2580,6 +2635,7 @@ Volleyball venues in Singapore‎
 WOHA‎
 WTA Singapore Open‎
 Warriors FC head coaches‎
+Warriors FC players
 Warriors FC players‎
 Warriors FC seasons‎
 Warriors FC‎
@@ -2612,6 +2668,8 @@ Women's sport in Singapore‎
 Women's sports competitions in Singapore‎
 Women's volleyball in Singapore‎
 Wong JingLun albums‎
+Woodlands Wellington FC head coaches‎
+Woodlands Wellington FC players‎
 Woodlands, Singapore‎
 Workers' Party (Singapore) politicians‎
 Works about prostitution in Singapore‎
@@ -2626,6 +2684,8 @@ Years of the 20th century in Singapore‎
 Years of the 21st century in Singapore‎
 Yemeni emigrants to Singapore‎
 Yishun‎
+Young Lions FC head coaches‎
+Young Lions FC players‎
 Youth football in Singapore‎
 Youth in Singapore‎
 Youth organisations based in Singapore‎
