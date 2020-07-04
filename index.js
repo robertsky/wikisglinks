@@ -1,4 +1,6 @@
 const _ = require('lodash');
+const _colors = require('colors');
+const cliProgress = require('cli-progress');
 const Promise = require('bluebird');
 const wiki = require('wikijs').default;
 const waitFor = (ms) => new Promise(r => setTimeout(r, ms))
@@ -6,15 +8,28 @@ const writeFile = require('fs').createWriteStream("pages3.txt", {flags:'w'});
 var outputArray = [];
 var headings = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'), async(cat) => {
-    if (!!cat && cat.length > 0) {
-        await waitFor(3000)
+const b1 = new cliProgress.SingleBar({
+    format: 'Categories accessed |' + _colors.cyan('{bar}') + '| {percentage}% || {value}/{total} categories',
+    barCompleteChar: '\u2588',
+    barIncompleteChar: '\u2591',
+    hideCursor: true
+});
+
+let fs = Promise.promisifyAll(require('fs'));
+
+fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
+    let catList = content.split('\r\n');
+    console.log('Knocking on Wikipedia\'s door...');
+    b1.start(catList.length, 0);
+    return catList;
+}).map(async function(catList) {
+    if (!!catList && catList.length > 0) {
+        await waitFor(3000);
         wiki({
             apiUrl: 'https://en.wikipedia.org/w/api.php',
             headers: { 'User-Agent': 'WikiSgLinksBot/0.1 (https://github.com/robertsky/wikisglinks) wikijs/6.0.1' }
-        }).pagesInCategory('Category:' + cat).then(function(result) {
+        }).pagesInCategory('Category:' + catList).then(function(result) {
             var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:')));
-            console.log(cat +' length: ' + filteredResult.length);
             filteredResult.forEach(function(val,idx) {
                 this[idx] = val.replace(/^Talk\:/, '');
                 this[idx] = val.replace(/^Book talk\:/,'Book:');
@@ -29,11 +44,16 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
             if (!!result.length) {
                 outputArray = _.union(outputArray, result);
             }
+            b1.increment();
             return 'write';
-        });
+        }).catch((error) => console.error(error));
     }
-}, {concurrency: 200}).delay(5000).then(function(){
+}, {concurrency: 100}).delay(3000).then(function(){
+    b1.stop();
+    console.log('Total number of articles: ' + outputArray.length);
+    console.log('Sorting...');
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
+    console.log('Writing to file...');
     writeFile.write("{{use Singapore English|date=August 2019}}\n");
     writeFile.write("{{use dmy dates|date=August 2019}}\n");
     writeFile.write("{{short description|Wikimedia list article}}\n");
@@ -62,4 +82,6 @@ Promise.map(require('fs').readFileSync('category-list.txt', 'utf8').split('\r\n'
     writeFile.write("{{DEFAULTSORT:Index Of Singapore-Related Articles}}\n");
     writeFile.write("[[Category:Singapore-related lists]]\n");
     writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
-});
+    console.log('Write complete...');
+    console.log('Ready for verification and upload.');
+}).catch((error) => console.error(error));
