@@ -612,14 +612,12 @@
 2019 in Singapore‎
 2019–20 in Singaporean basketball
 2020 Singaporean general election
-2020 Tamil-language television seasons
 2020 disestablishments in Singapore
 2020 establishments in Singapore 
 2020 in Singaporean football
 2020 in Singaporean sport
 2020 in Singapore‎
 2020s Singaporean television series‎
-2020s Tamil-language television series
 2020s disestablishments in Singapore
 2020s disestablishments in Singapore‎
 2020s establishments in Singapore
@@ -787,6 +785,7 @@ Assault rifles of Singapore‎
 Athletics (track and field) venues in Singapore‎
 Athletics at the 2010 Summer Youth Olympics‎
 Athletics at the 2015 Southeast Asian Games‎
+Attacks in Singapore
 Attorneys-General of Singapore‎
 Audio equipment manufacturers of Singapore‎
 Australian emigrants to Singapore‎
@@ -978,7 +977,6 @@ Coaches of the Singapore national cricket team‎
 Collections of the National Museum of Singapore‎
 Columbaria in Singapore‎
 Combat vehicles of Singapore‎
-ComfortDelGro companies‎
 Commonwealth Games competitors for Singapore‎
 Commonwealth War Graves Commission cemeteries in Singapore
 Communications ministers of Singapore
@@ -1014,6 +1012,7 @@ Creative Technology acquisitions
 Creative Technology products
 Crematoria in Singapore‎
 Cricket grounds in Singapore‎
+Crime in Singapore by type
 Crime in Singapore‎
 Croatian emigrants to Singapore‎
 Croatian expatriate sportspeople in Singapore‎
@@ -1343,6 +1342,7 @@ Hougang‎
 Houses in Singapore‎
 Housing estates in Singapore‎
 Housing in Singapore‎
+Human rights abuses in Singapore
 Human rights in Singapore‎
 Hungarian expatriate sportspeople in Singapore‎
 Hwa Chong Institution‎
@@ -2105,6 +2105,7 @@ Singapore rail transport templates‎
 Singapore religion and belief templates‎
 Singapore religious cases‎
 Singapore road stubs
+Singapore sidebar templates
 Singapore society and social science templates‎
 Singapore sport-related lists‎
 Singapore sports governing body logos‎
@@ -2126,7 +2127,7 @@ Singapore women's national basketball team
 Singapore women's national cricket team‎
 Singapore women's national football team
 Singapore youth international footballers
-Singapore-Malaysia co-productions‎
+Singapore-Malaysia television co-productions
 Singapore-related lists‎
 Singaporean Anglicans‎
 Singaporean Armenians‎
@@ -2265,6 +2266,7 @@ Singaporean companies established in 1986
 Singaporean companies established in 1987
 Singaporean companies established in 1988
 Singaporean companies established in 1989
+Singaporean companies established in 1991
 Singaporean companies established in 1992
 Singaporean companies established in 1993
 Singaporean companies established in 1994
