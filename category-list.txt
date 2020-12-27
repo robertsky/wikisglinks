@@ -755,7 +755,6 @@ Anglican schools in Singapore‎
 Anglicanism in Singapore‎
 Anglo-Chinese School‎
 Animal welfare organisations based in Singapore‎
-Animal welfare organizations based in Singapore
 Anime conventions in Singapore
 Annual events in Singapore‎
 Anti-discrimination law in Singapore‎
@@ -782,7 +781,7 @@ Artillery of Singapore‎
 Arts centres in Singapore‎
 Arts festivals in Singapore‎
 Arts in Singapore‎
-Arts organizations based in Singapore
+Arts organisations based in Singapore
 Arts schools in Singapore
 Asian Civilisations Museum‎
 Asian Games competitors for Singapore‎
@@ -864,7 +863,6 @@ Brunei–Singapore relations‎
 Brutalist architecture in Singapore‎
 Buddhism in Singapore‎
 Buddhist organisations based in Singapore
-Buddhist organizations based in Singapore
 Buddhist temples in Singapore‎
 Buddhist universities and colleges in Singapore
 Bugis people‎
@@ -896,6 +894,7 @@ Business schools in Singapore‎
 Butterflies of Singapore‎
 By-elections in Singapore‎
 By2 albums‎
+C.L.I.F.
 CNA (TV network) original programming
 COVID-19 pandemic in Singapore
 COVID-19 pandemic in Singapore templates
@@ -946,12 +945,10 @@ Chiefs of Defence Force (Singapore)
 Chiefs of the Singapore Army
 Child welfare in Singapore
 Child-related organisations in Singapore‎
-Child-related organizations in Singapore
 Childhood in Singapore
 Chinatown, Singapore‎
 China–Singapore relations‎
 Chinese Singaporean organisations
-Chinese Singaporean organizations
 Chinese diaspora in Singapore‎
 Chinese emigrants to Singapore‎
 Chinese expatriate sportspeople in Singapore‎
@@ -973,7 +970,6 @@ Cinemas in Singapore‎
 City Developments Limited
 City Harvest Church albums‎
 Civic and political organisations of Singapore‎
-Civic and political organizations of Singapore
 Civil aviation in Singapore‎
 Civil awards and decorations of Singapore‎
 Clementi‎
@@ -1027,7 +1023,6 @@ Croatian expatriates in Singapore‎
 Crowdfunding platforms of Singapore
 Cue sports in Singapore‎
 Cultural organisations based in Singapore‎
-Cultural organizations based in Singapore
 Currencies of Singapore‎
 Cycle racing in Singapore‎
 Cycling at the 2010 Summer Youth Olympics‎
@@ -1055,7 +1050,7 @@ Defunct horse racing venues in Singapore‎
 Defunct hospitals in Singapore‎
 Defunct magazines of Singapore‎
 Defunct mass media in Singapore
-Defunct organizations based in Singapore
+Defunct organisations based in Singapore
 Defunct political parties in Singapore‎
 Defunct railway companies of Singapore‎
 Defunct railway stations in Singapore‎
@@ -1078,7 +1073,6 @@ Diplomatic missions in Singapore‎
 Diplomatic missions of Singapore‎
 Disability in Singapore‎
 Disability organisations based in Singapore‎
-Disability organizations based in Singapore
 Discographies of Singaporean artists‎
 Disease outbreaks in Singapore
 Disease-related deaths in Singapore‎
@@ -1106,7 +1100,7 @@ Education companies of Singapore
 Education in Central Region, Singapore‎
 Education in North-East Region, Singapore‎
 Education in Singapore‎
-Educational organizations based in Singapore
+Educational organisations based in Singapore
 Educational technology companies of Singapore
 Election law in Singapore‎
 Election results in Singapore‎
@@ -1132,7 +1126,6 @@ Entertainment venues in Singapore‎
 Environment ministers of Singapore
 Environment of Singapore‎
 Environmental organisations based in Singapore‎
-Environmental organizations based in Singapore
 Environmentalism in Singapore‎
 Epigram Books Fiction Prize
 Equatoguinean expatriate sportspeople in Singapore‎
@@ -1182,7 +1175,7 @@ Filipino expatriate sportspeople in Singapore‎
 Filipino expatriates in Singapore‎
 Film censorship in Singapore
 Film festivals in Singapore‎
-Film organizations in Singapore
+Film organisations in Singapore
 Film production companies of Singapore‎
 Film schools in Singapore‎
 Films based on Singaporean novels‎
@@ -1322,7 +1315,7 @@ History museums in Singapore‎
 History of Singapore by period‎
 History of Singapore‎
 History of companies of Singapore‎
-History of organizations based in Singapore
+History of organisations based in Singapore
 History of transport in Singapore‎
 History of women in Singapore
 Hoaxes in Singapore‎
@@ -1399,7 +1392,6 @@ International field hockey competitions hosted by Singapore‎
 International gymnastics competitions hosted by Singapore‎
 International netball competitions hosted by Singapore
 International organisations based in Singapore‎
-International organizations based in Singapore
 International rugby union competitions hosted by Singapore‎
 International schools in Singapore‎
 International sports competitions hosted by Singapore‎
@@ -1466,7 +1458,6 @@ LGBT events in Singapore‎
 LGBT history in Singapore‎
 LGBT in Singapore‎
 LGBT organisations in Singapore‎
-LGBT organizations in Singapore
 LGBT people from Singapore‎
 LGBT political advocacy groups in Singapore‎
 LGBT rights activists from Singapore‎
@@ -1492,7 +1483,6 @@ Law enforcement in Singapore‎
 Law firms of Singapore‎
 Lebanese expatriates in Singapore
 Legal organisations based in Singapore‎
-Legal organizations based in Singapore
 Legal procedure of Singapore‎
 Legislative branch of the Singapore Government‎
 Liberal parties in Singapore‎
@@ -1529,7 +1519,6 @@ Lists of government ministers of Singapore
 Lists of landforms of Singapore‎
 Lists of mass media in Singapore
 Lists of organisations based in Singapore‎
-Lists of organizations based in Singapore
 Lists of political office-holders in Singapore‎
 Lists of religious buildings and structures in Singapore‎
 Lists of schools in Singapore‎
@@ -1646,7 +1635,6 @@ Museums in Singapore‎
 Music events in Singapore
 Music festivals in Singapore‎
 Music organisations based in Singapore‎
-Music organizations based in Singapore
 Music schools in Singapore‎
 Music venues in Singapore‎
 Musical instrument manufacturing companies of Singapore‎
@@ -1692,7 +1680,6 @@ Ngee Ann Secondary School‎
 Nigerian emigrants to Singapore‎
 Nigerian expatriates in Singapore
 Non-profit organisations based in Singapore‎
-Non-profit organizations based in Singapore
 North Korean expatriates in Singapore‎
 North Korea–Singapore relations‎
 North Region, Singapore‎
@@ -1729,10 +1716,8 @@ Orders, decorations, and medals of Singapore‎
 Organisations based in Singapore by subject
 Organisations based in Singapore‎
 Organisations of the Singapore Government‎
-Organizations based in Singapore by subject
-Organizations of the Singapore Government
-Organized crime groups in Singapore
-Organized crime in Singapore‎
+Organised crime groups in Singapore
+Organised crime in Singapore‎
 Outdoor sculptures in Singapore
 Outram, Singapore‎
 PDC World Cup of Darts Singaporean team
@@ -1791,8 +1776,8 @@ Police stations in Singapore‎
 Political families of Singapore‎
 Political history of Singapore‎
 Political office-holders in Singapore‎
-Political organizations based in Singapore
-Political organizations based in Singapore by ideology
+Political organisations based in Singapore
+Political organisations based in Singapore by ideology
 Political parties in Singapore‎
 Politics of Singapore‎
 Polo clubs in Singapore‎
@@ -1880,7 +1865,6 @@ Religious buildings and structures in Singapore‎
 Religious festivals in Singapore‎
 Religious museums in Singapore‎
 Religious organisations based in Singapore‎
-Religious organizations based in Singapore
 Religious schools in Singapore‎
 Representatives of Taiwan to Singapore
 Reptiles of Singapore‎
@@ -1955,7 +1939,6 @@ Schools offering Integrated Programme in Singapore‎
 Science and technology in Singapore‎
 Science museums in Singapore‎
 Scientific organisations based in Singapore‎
-Scientific organizations based in Singapore
 Scottish expatriate sportspeople in Singapore‎
 Scouting and Guiding in Singapore‎
 Seasons in Singaporean football competitions‎
@@ -2104,7 +2087,6 @@ Singapore nature-related lists‎
 Singapore navigational boxes
 Singapore opera companies‎
 Singapore organisation stubs‎
-Singapore organization stubs
 Singapore people and person templates‎
 Singapore political party colour templates‎
 Singapore political party name templates‎
@@ -2748,7 +2730,6 @@ Singaporean venture capitalist‎
 Singaporean virologists‎
 Singaporean voice actresses‎
 Singaporean voluntary welfare organisations‎
-Singaporean voluntary welfare organizations
 Singaporean water skiers‎
 Singaporean websites‎
 Singaporean windsurfers
@@ -2765,9 +2746,11 @@ Singaporean women film directors‎
 Singaporean women illustrators
 Singaporean women in business‎
 Singaporean women in politics‎
+Singaporean women journalists
 Singaporean women judges‎
 Singaporean women lawyers‎
 Singaporean women painters
+Singaporean women poets
 Singaporean women scientists‎
 Singaporean women short story writers‎
 Singaporean women writers‎
@@ -2821,7 +2804,6 @@ Sports competitions in Singapore‎
 Sports governing bodies in Singapore‎
 Sports leagues in Singapore‎
 Sports organisations of Singapore‎
-Sports organizations of Singapore
 Sports teams in Singapore‎
 Sports television in Singapore‎
 Sports venues in Singapore‎
@@ -2934,7 +2916,6 @@ Transport in North-East Region, Singapore‎
 Transport in Singapore‎
 Transport operators of Singapore‎
 Transport organisations based in Singapore‎
-Transport organizations based in Singapore
 Transportation network companies of Singapore
 Travel and holiday companies of Singapore‎
 Treaties extended to the Crown Colony of Singapore‎
@@ -3005,7 +2986,7 @@ Western Islands Planning Area‎
 Western Water Catchment‎
 Wetlands of Singapore‎
 WikiProject Singapore templates‎
-Wikipedia categories named after organizations based in Singapore
+Wikipedia categories named after organisations based in Singapore
 Women government ministers of Singapore‎
 Women in Singapore‎
 Women's field hockey in Singapore‎
@@ -3039,7 +3020,6 @@ Young Lions FC players‎
 Youth football in Singapore‎
 Youth in Singapore‎
 Youth organisations based in Singapore‎
-Youth organizations based in Singapore
 Youth sport in Singapore‎
 Youth wings of political parties in Singapore‎
 Zoos in Singapore‎
