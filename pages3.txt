@@ -1,7 +1,7 @@
 {{use Singapore English|date=August 2019}}
 {{use dmy dates|date=August 2019}}
 {{short description|Wikimedia list article}}
-This is a '''list of [[Singapore]]-related articles by alphabetical order'''. For a list by topic, see [[list of Singapore-related topics]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject_Singapore/Article_improvement|here]].
+This is a '''list of [[Singapore]]-related articles by alphabetical order'''. To learn quickly what Singapore is, see [[Outline of Singapore]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject_Singapore/Article_improvement|here]].
 
 Articles related to '''[[Singapore]]''' include:
 {{alphanumeric TOC|numbers=yes|align=center}}
@@ -1245,7 +1245,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[Asiaciti Trust]]
 * [[Asian Aerospace]]
 * [[Asian Australasian Society of Neurological Surgeons]]
-* [[Asian Banker Research]]
 * [[Asian Children's Festival]]
 * [[Asian Civilisations Museum]]
 * [[Asian Festival of First Films]]
@@ -1960,6 +1959,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[CHIJMES Hall]]
 * [[CHIMES Society]]
 * [[CHK (TV channel)]]
+* [[CINTRA (research laboratory)]]
 * [[CITES]]
 * [[CNA (TV network)]]
 * [[CNA938]]
@@ -2248,6 +2248,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Chay Yew]]
 * [[Chayut Triyachart]]
 * [[Che Zahara]]
+* [[Cheang Hong Lim]]
 * [[Checha Davies]]
 * [[Checkmate (song)]]
 * [[Chee Hong Tat]]
@@ -3379,6 +3380,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Faiz Salleh]]
 * [[Faizah Jamal]]
 * [[Faizal Hamid]]
+* [[Faizal Raffi]]
 * [[Faizal Roslan]]
 * [[Fajar LRT station]]
 * [[Fajar Secondary School]]
@@ -4073,7 +4075,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[HanKore Environment Tech Group]]
 * [[Hanafi Akbar]]
 * [[Hanafi Ghazali]]
-* [[Hand In Hand (Singaporean TV series)]]
+* [[Hand in Hand (Singaporean TV series)]]
 * [[Handa Singapore Classic]]
 * [[Handball Federation Singapore]]
 * [[Handball at the 2010 Summer Youth Olympics]]
@@ -4731,6 +4733,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Jameel McKay]]
 * [[James Cook University Singapore]]
 * [[James Cooke (sailor)]]
+* [[James Crabtree]]
 * [[James Curtis Hepburn]]
 * [[James Gomez]]
 * [[James Jack (artist)]]
@@ -4801,7 +4804,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[Jason Withe]]
 * [[Jasper Chan]]
 * [[Jasper Johns (footballer)]]
-* [[Jaspers Lai]]
 * [[Java pipistrelle]]
 * [[Javan myna]]
 * [[Javanese people]]
@@ -4824,6 +4826,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Jebsen & Jessen (SEA)]]
 * [[Jee Leong Koh]]
 * [[Jeff Wang]]
+* [[Jeffrey Xu]]
 * [[Jek Yeun Thong]]
 * [[Jelapang LRT station]]
 * [[Jem, Singapore]]
@@ -5617,6 +5620,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Lee Boon Yang]]
 * [[Lee Chak Men]]
 * [[Lee Chiaw Meng]]
+* [[Lee Chiong Giam]]
 * [[Lee Choo Neo]]
 * [[Lee Choon Seng]]
 * [[Lee Fook Chee]]
@@ -5945,7 +5949,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[List of Singapore representatives at international male beauty pageants]]
 * [[List of Singapore women Twenty20 International cricketers]]
 * [[List of Singapore's football leagues winners]]
-* [[List of Singapore-related topics]]
 * [[List of Singaporean Americans]]
 * [[List of Singaporean Community Development Councils (1997–2001)]]
 * [[List of Singaporean Community Development Councils (2001–2006)]]
@@ -6656,6 +6659,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Mee Pok Man]]
 * [[Mee goreng]]
 * [[Mee pok]]
+* [[Mee rebus]]
 * [[Mee siam]]
 * [[Meet-the-People Sessions]]
 * [[Mega Adventure Park]]
@@ -6739,7 +6743,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[Microhyla heymonsi]]
 * [[Microhyla mantheyi]]
 * [[Middle Road, Singapore]]
-* [[Mie kuah]]
 * [[Mightiest Mother-in-Law]]
 * [[Migrant Worker Poetry Competition]]
 * [[Mike Kasem]]
@@ -7748,7 +7751,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[People Like Us (Singapore)]]
 * [[People of the Pear Tree]]
 * [[People's Action Party]]
-* [[People's Association (Singapore)]]
+* [[People's Association]]
 * [[People's Front (Singapore)]]
 * [[People's Liberal Democratic Party]]
 * [[People's Movement to Stop Haze]]
@@ -7864,6 +7867,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Plantain squirrel]]
 * [[Plastingia naga]]
 * [[Plastique Kinetic Worms]]
+* [[Platerodrilus ruficollis]]
 * [[Platycerium coronarium]]
 * [[Playware Studios]]
 * [[Plaza Singapura]]
@@ -8495,7 +8499,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[Rosefin rasbora]]
 * [[Roshni Kaur Soin]]
 * [[Rosman Sulaiman]]
-* [[Ross Butler (actor)]]
 * [[Ross McKenzie]]
 * [[Roti canai]]
 * [[Roti john]]
@@ -9234,7 +9237,6 @@ Articles related to '''[[Singapore]]''' include:
 * [[Singapore Conference Hall]]
 * [[Singapore Cooperation Programme]]
 * [[Singapore Cord Blood Bank]]
-* [[Singapore Corporation of Rehabilitative Enterprises]]
 * [[Singapore Council of Women]]
 * [[Singapore Council of Women's Organisations]]
 * [[Singapore Cricket Association]]
@@ -9445,6 +9447,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Singapore Turf Club]]
 * [[Singapore Unbound]]
 * [[Singapore Underground Road System]]
+* [[Singapore United Party]]
 * [[Singapore University of Social Sciences]]
 * [[Singapore University of Technology and Design]]
 * [[Singapore Volunteer Corps]]
@@ -11107,6 +11110,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Tengah Plantation MRT station]]
 * [[Tengah, Singapore]]
 * [[Tengku Alam Shah]]
+* [[Tengku Amir Shah]]
 * [[Tengku Ampuan Tua Intan Zaharah]]
 * [[Tengku Muhammad Shawal bin Tengku Abdul Aziz]]
 * [[Tengku Mushadad]]
@@ -12175,6 +12179,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Yee Tit Kwan]]
 * [[Yee-Sin Leo]]
 * [[Yellow Ribbon Project]]
+* [[Yellow Ribbon Singapore]]
 * [[Yellow-Top taxis]]
 * [[Yemen at the 2010 Summer Youth Olympics]]
 * [[Yeng Pway Ngon]]
@@ -12389,11 +12394,11 @@ Articles related to '''[[Singapore]]''' include:
 * [[Željko Savić]]
 {{div col end}}
 ==See also==
-*[[List of Singapore-related topics]]
+*[[Outline of Singapore]]
 *[[Lists of country-related topics]] - similar lists for other countries
 
 {{Index footer}}
 
-{{DEFAULTSORT:Index Of Singapore-Related Articles}}
+{{DEFAULTSORT:Index Of Singapore-related Articles}}
 [[Category:Singapore-related lists]]
 [[Category:Indexes of topics by country|Singapore]]

@@ -57,7 +57,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     writeFile.write("{{use Singapore English|date=August 2019}}\n");
     writeFile.write("{{use dmy dates|date=August 2019}}\n");
     writeFile.write("{{short description|Wikimedia list article}}\n");
-    writeFile.write("This is a '''list of [[Singapore]]-related articles by alphabetical order'''. For a list by topic, see [[list of Singapore-related topics]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject_Singapore/Article_improvement|here]].\n\n");
+    writeFile.write("This is a '''list of [[Singapore]]-related articles by alphabetical order'''. To learn quickly what Singapore is, see [[Outline of Singapore]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject_Singapore/Article_improvement|here]].\n\n");
     writeFile.write("Articles related to '''[[Singapore]]''' include:\n");
     writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n');
     writeFile.write('==0-9==\n')
@@ -76,10 +76,10 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     })
     writeFile.write('{{div col end}}\n');
     writeFile.write("==See also==\n");
-    writeFile.write("*[[List of Singapore-related topics]]\n");
+    writeFile.write("*[[Outline of Singapore]]\n");
     writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n\n");
     writeFile.write("{{Index footer}}\n\n");
-    writeFile.write("{{DEFAULTSORT:Index Of Singapore-Related Articles}}\n");
+    writeFile.write("{{DEFAULTSORT:Index Of Singapore-related Articles}}\n");
     writeFile.write("[[Category:Singapore-related lists]]\n");
     writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
     console.log('Write complete...');
