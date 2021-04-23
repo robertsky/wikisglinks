@@ -29,7 +29,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
             apiUrl: 'https://en.wikipedia.org/w/api.php',
             headers: { 'User-Agent': 'WikiSgLinksBot/0.1 (https://github.com/robertsky/wikisglinks) wikijs/6.0.1' }
         }).pagesInCategory('Category:' + catList).then(function(result) {
-            var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:')));
+            var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:') && !title.startsWith('Book:')));
             filteredResult.forEach(function(val,idx) {
                 this[idx] = val.replace(/^Talk\:/, '');
                 this[idx] = val.replace(/^Book talk\:/,'Book:');
