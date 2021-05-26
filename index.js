@@ -48,7 +48,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
             return 'write';
         }).catch((error) => console.error(error));
     }
-}, {concurrency: 100}).delay(3000).then(function(){
+}, {concurrency: 75}).delay(4500).then(function(){
     b1.stop();
     console.log('Total number of articles: ' + outputArray.length);
     console.log('Sorting...');
