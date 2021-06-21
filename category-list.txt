@@ -35,6 +35,7 @@
 1900 establishments in Singapore‎
 1901 establishments in Singapore‎
 1902 establishments in Singapore‎
+1903 establishments in Singapore
 1905 disestablishments in Singapore‎
 1905 establishments in Singapore‎
 1907 disestablishments in Singapore‎
@@ -708,6 +709,7 @@ Ambassadors of Germany to Singapore‎
 Ambassadors of Indonesia to Singapore
 Ambassadors of Israel to Singapore‎
 Ambassadors of Japan to Singapore‎
+Ambassadors of Liberia to Singapore
 Ambassadors of Morocco to Singapore‎
 Ambassadors of Mozambique to Singapore‎
 Ambassadors of Myanmar to Singapore‎
@@ -2338,6 +2340,7 @@ Singaporean companies established in 2012‎
 Singaporean companies established in 2014
 Singaporean companies established in 2015
 Singaporean companies established in 2016‎
+Singaporean companies established in 2021
 Singaporean composers‎
 Singaporean computer programmers‎
 Singaporean computer scientists‎
@@ -2641,6 +2644,7 @@ Singaporean people of Dutch descent‎
 Singaporean people of English descent‎
 Singaporean people of European descent‎
 Singaporean people of Filipino descent‎
+Singaporean people of French descent
 Singaporean people of German descent‎
 Singaporean people of Greek Cypriot descent‎
 Singaporean people of Guinean descent
@@ -2663,6 +2667,7 @@ Singaporean people of Kashmiri descent‎
 Singaporean people of Korean descent‎
 Singaporean people of Kristang descent‎
 Singaporean people of Malay descent‎
+Singaporean people of Malayali descent
 Singaporean people of Malian descent‎
 Singaporean people of Minangkabau descent‎
 Singaporean people of Nigerian descent‎
