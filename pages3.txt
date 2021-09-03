@@ -1,7 +1,7 @@
+{{short description|Wikimedia list article}}
 {{use Singapore English|date=August 2019}}
 {{use dmy dates|date=August 2019}}
-{{short description|Wikimedia list article}}
-This is a '''list of [[Singapore]]-related articles by alphabetical order'''. To learn quickly what Singapore is, see [[Outline of Singapore]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject_Singapore/Article_improvement|here]].
+This is a '''list of [[Singapore]]-related articles by alphabetical order'''. To learn quickly what Singapore is, see [[Outline of Singapore]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject Singapore/Article improvement|here]].
 
 Articles related to '''[[Singapore]]''' include:
 {{alphanumeric TOC|numbers=yes|align=center}}
@@ -644,6 +644,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[9th Parliament of Singapore]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==A==
 {{div col|colwidth=25em}}
 * [[A Blessed Life]]
@@ -1436,6 +1437,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Azri Suhaili]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==B==
 {{div col|colwidth=25em}}
 * [[B1G1]]
@@ -1960,6 +1962,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[By2 discography]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==C==
 {{div col|colwidth=25em}}
 * [[C. Boden Kloss]]
@@ -2787,6 +2790,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Czech Republic at the 2010 Summer Youth Olympics]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==D==
 {{div col|colwidth=25em}}
 * [[D. Tokijan]]
@@ -3102,6 +3106,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Délifrance]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==E==
 {{div col|colwidth=25em}}
 * [[E-mu 20K]]
@@ -3383,6 +3388,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Ezra Holdings]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==F==
 {{div col|colwidth=25em}}
 * [[FAS Premier League]]
@@ -3706,6 +3712,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Future developments in Singapore]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==G==
 {{div col|colwidth=25em}}
 * [[G. Carlos Smith]]
@@ -4041,6 +4048,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Gymnastics at the 2015 Southeast Asian Games – Women's vault]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==H==
 {{div col|colwidth=25em}}
 * [[H. C. Matthew Sim]]
@@ -4450,6 +4458,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Håkan Söderstjerna]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==I==
 {{div col|colwidth=25em}}
 * [[I Am David Sparkle]]
@@ -4725,6 +4734,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Izzdin Shafiq]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==J==
 {{div col|colwidth=25em}}
 * [[J C Sum]]
@@ -5172,6 +5182,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Juying Secondary School]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==K==
 {{div col|colwidth=25em}}
 * [[K-Plus]]
@@ -5573,6 +5584,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Kévin Yann]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==L==
 {{div col|colwidth=25em}}
 * [[LASALLE College of the Arts]]
@@ -6324,6 +6336,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Lü Chen Chung]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==M==
 {{div col|colwidth=25em}}
 * [[M Ravi]]
@@ -7057,6 +7070,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Myristica iners]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==N==
 {{div col|colwidth=25em}}
 * [[N. Ganesan]]
@@ -7433,6 +7447,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Nüyou]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==O==
 {{div col|colwidth=25em}}
 * [[O Thiam Chin]]
@@ -7614,6 +7629,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Oyster omelette]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==P==
 {{div col|colwidth=25em}}
 * [[P. C. Suppiah]]
@@ -8166,6 +8182,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Pétanque at the 2015 Southeast Asian Games]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==Q==
 {{div col|colwidth=25em}}
 * [[Qantas Flight 32]]
@@ -8205,6 +8222,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Qui-Lim Choo]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==R==
 {{div col|colwidth=25em}}
 * [[R Aaravin]]
@@ -8668,6 +8686,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Rıza Türmen]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==S==
 {{div col|colwidth=25em}}
 * [[S P Jain School of Global Management]]
@@ -10317,6 +10336,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Sōichirō Tanaka (footballer)]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==T==
 {{div col|colwidth=25em}}
 * [[T'ang Quartet]]
@@ -11710,6 +11730,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Tzu Chi Singapore]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==U==
 {{div col|colwidth=25em}}
 * [[U. K. Shyam]]
@@ -11806,6 +11827,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Uzbekistan at the 2010 Summer Youth Olympics]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==V==
 {{div col|colwidth=25em}}
 * [[V on Shenton]]
@@ -11946,6 +11968,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Võ Văn Kiệt]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==W==
 {{div col|colwidth=25em}}
 * [[W!LD RICE]]
@@ -12230,6 +12253,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Wywy Group of Companies]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==X==
 {{div col|colwidth=25em}}
 * [[X-Press Feeders]]
@@ -12261,6 +12285,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Xylopia magna]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==Y==
 {{div col|colwidth=25em}}
 * [[YES 933]]
@@ -12425,6 +12450,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Yōsuke Saitō]]
 {{div col end}}
 {{alphanumeric TOC|numbers=yes|align=center|top=yes}}
+
 ==Z==
 {{div col|colwidth=25em}}
 * [[ZEN V]]
