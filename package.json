@@ -1,6 +1,6 @@
 {
   "name": "wikisglinks",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Generate suitable list(s) for wikiproject singapore",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "cli-progress": "^3.9.0",
     "colors": "^1.4.0",
     "lodash": "^4.17.21",
-    "wikijs": "^6.2.0"
+    "wikijs": "^6.3.2",
+    "winston": "^3.3.3"
   }
 }

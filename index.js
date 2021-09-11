@@ -3,6 +3,7 @@ const _colors = require('colors');
 const cliProgress = require('cli-progress');
 const Promise = require('bluebird');
 const wiki = require('wikijs').default;
+const winston = require('winston');
 const waitFor = (ms) => new Promise(r => setTimeout(r, ms))
 const writeFile = require('fs').createWriteStream("pages3.txt", {flags:'w'});
 var outputArray = [];
@@ -14,6 +15,20 @@ const b1 = new cliProgress.SingleBar({
     barIncompleteChar: '\u2591',
     hideCursor: true
 });
+
+const logConfiguartion = {
+    'transports': [
+        new winston.transports.Console({
+            level: 'warn'
+        }),
+        new winston.transports.File({
+            level: 'error',
+            filename: 'logs/error.log'
+        })
+    ]
+};
+
+const logger = winston.createLogger(logConfiguartion);
 
 let fs = Promise.promisifyAll(require('fs'));
 
@@ -27,7 +42,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
         await waitFor(3000);
         wiki({
             apiUrl: 'https://en.wikipedia.org/w/api.php',
-            headers: { 'User-Agent': 'WikiSgLinksBot/0.1 (https://github.com/robertsky/wikisglinks) wikijs/6.0.1' }
+            headers: { 'User-Agent': 'WikiSgLinksBot/1.1.1 (https://github.com/robertsky/wikisglinks) wikijs/6.3.2' }
         }).pagesInCategory('Category:' + catList).then(function(result) {
             var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:') && !title.startsWith('Book:')));
             filteredResult.forEach(function(val,idx) {
@@ -46,7 +61,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
             }
             b1.increment();
             return 'write';
-        }).catch((error) => console.error(error));
+        }).catch((error) => logger.error(error));
     }
 }, {concurrency: 75}).delay(4500).then(function(){
     b1.stop();
@@ -84,4 +99,4 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
     console.log('Write complete...');
     console.log('Ready for verification and upload.');
-}).catch((error) => console.error(error));
+}).catch((error) => logger.error(error));
