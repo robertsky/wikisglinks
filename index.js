@@ -91,6 +91,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     })
     writeFile.write('{{div col end}}\n');
     writeFile.write("==See also==\n");
+    writeFile.write("<div style=\"float:right;\">'''''<small>{{portal-inline|Singapore}}<br>{{portal-inline|Cities}}<br>{{portal-inline|Islands}}<br>{{portal-inline|Asia}}</small></div>\n");
     writeFile.write("*[[Outline of Singapore]]\n");
     writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n\n");
     writeFile.write("{{Index footer}}\n\n");
