@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "cli-progress": "^3.9.0",
+    "cli-progress": "^3.9.1",
     "colors": "^1.4.0",
     "lodash": "^4.17.21",
     "wikijs": "^6.3.2",
