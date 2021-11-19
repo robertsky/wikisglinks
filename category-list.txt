@@ -631,7 +631,7 @@
 2019–20 in Singaporean basketball
 2020 Singaporean general election
 2020 disestablishments in Singapore
-2020 establishments in Singapore 
+2020 establishments in Singapore
 2020 in Singaporean football
 2020 in Singaporean sport
 2020 in Singapore‎
@@ -1080,6 +1080,7 @@ Deaths by person in Singapore
 Deaths by stabbing in Singapore‎
 Deaths from cancer in Singapore‎
 Deaths from pneumonia in Singapore
+Deaths from the COVID-19 pandemic in Singapore
 Deaths in Singapore‎
 Defence companies of Singapore
 Defunct airlines of Singapore‎
@@ -1098,6 +1099,7 @@ Defunct railway companies of Singapore‎
 Defunct railway stations in Singapore‎
 Defunct reservoirs in Singapore
 Defunct restaurant chains in Singapore
+Defunct restaurants in Singapore
 Defunct schools in Singapore‎
 Defunct socialist parties in Singapore‎
 Defunct sports competitions in Singapore‎
@@ -1499,6 +1501,7 @@ Kelly Poon albums‎
 Kelvin Tan albums‎
 Kickboxing in Singapore‎
 Kidnapped Singaporean people‎
+Korean emigrants to Singapore
 Korean-language singers of Singapore‎
 Kranji‎
 Kyrgyzstani expatriate sportspeople in Singapore‎
@@ -1513,6 +1516,7 @@ LGBT political advocacy groups in Singapore‎
 LGBT rights activists from Singapore‎
 LGBT rights in Singapore‎
 LGBT sportspeople from Singapore
+LGBT writers from Singapore
 LRT stations in Punggol‎
 LRT stations in Sengkang
 LRT stations of Bukit Panjang LRT Line‎
@@ -1586,7 +1590,7 @@ Lorong Halus‎
 Loyang, Singapore‎
 Machine guns of Singapore‎
 Madrasahs in Singapore‎
-Magazines published in Singapore 
+Magazines published in Singapore
 Malay languages in Singapore‎
 Malays in Singapore‎
 Malaysian emigrants to Singapore
@@ -1790,6 +1794,7 @@ Paralympic equestrians of Singapore‎
 Paralympic gold medalists for Singapore‎
 Paralympic silver medalists for Singapore‎
 Paralympic swimmers of Singapore‎
+Paralympic table tennis players of Singapore
 Parks in Singapore‎
 Parliament of Singapore‎
 Participants in Singapore reality television series‎
@@ -1857,7 +1862,7 @@ Presbyterianism in Singapore‎
 President's Scholars‎
 Presidential elections in Singapore‎
 Presidents of Nanyang Technological University
-Presidents of National University of Singapore 
+Presidents of National University of Singapore
 Presidents of Singapore Management University
 Presidents of Singapore‎
 Presidents of universities and colleges in Singapore
@@ -1922,6 +1927,7 @@ Rapid transit in Singapore‎
 Rapid transit lines in Singapore‎
 Rapid transit stations in Singapore‎
 Real estate companies of Singapore‎
+Recipients of Singaporean presidential pardons
 Recipients of the Long Service Medal (Military) (Singapore)
 Red-light districts in Singapore‎
 Redeveloped ports and waterfronts in Singapore‎
@@ -2181,6 +2187,7 @@ Singapore rail transport templates‎
 Singapore religion and belief templates‎
 Singapore religious cases‎
 Singapore road stubs
+Singapore school user templates
 Singapore sidebar templates
 Singapore society and social science templates‎
 Singapore sport-related lists‎
@@ -2196,6 +2203,7 @@ Singapore transport route diagram templates‎
 Singapore transport stubs‎
 Singapore transport templates‎
 Singapore transport-related lists‎
+Singapore university user templates
 Singapore user templates‎
 Singapore women Twenty20 International cricketers‎
 Singapore women's international footballers
@@ -2654,7 +2662,7 @@ Singaporean music‎
 Singaporean nationality law‎
 Singaporean netball players‎
 Singaporean neurologists
-Singaporean neuroscientists 
+Singaporean neuroscientists
 Singaporean neurosurgeons‎
 Singaporean news websites‎
 Singaporean non-fiction writers‎
@@ -2772,6 +2780,7 @@ Singaporean politicians of Punjabi descent‎
 Singaporean politicians‎
 Singaporean pop singers‎
 Singaporean post-rock groups‎
+Singaporean practitioners of Brazilian jiu-jitsu
 Singaporean prisoners and detainees‎
 Singaporean psychiatrists
 Singaporean public health doctors‎
@@ -2885,6 +2894,7 @@ Singaporean women‎
 Singaporean writer navigational boxes‎
 Singaporean writers‎
 Singaporean wuxia television series‎
+Singaporeans First politicians
 Singapore‎
 Singapore–South Africa relations‎
 Singapore–South Korea relations‎
@@ -2908,6 +2918,7 @@ Softball competitions in Singapore‎
 Softball in Singapore‎
 Software companies of Singapore‎
 Solicitors-General of Singapore‎
+South Korean emigrants to Singapore
 South Korean expatriate sportspeople in Singapore‎
 South Korean expatriates in Singapore‎
 Southeast Asian Games bronze medalists for Singapore‎
