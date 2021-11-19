@@ -33,7 +33,7 @@ const logger = winston.createLogger(logConfiguartion);
 let fs = Promise.promisifyAll(require('fs'));
 
 fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
-    let catList = content.split('\r\n');
+    let catList = content.split(/\r?\n/);
     console.log('Knocking on Wikipedia\'s door...');
     b1.start(catList.length, 0);
     return catList;
