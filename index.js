@@ -54,6 +54,9 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
                         this[idx] = val +' (disambiguation)';
                 }
             }, filteredResult);
+            filteredResult = _.remove(filteredResult, function(elem) {
+                return elem !== 'Index of Singapore-related articles';
+            });
             return filteredResult;
         }).then(function(result) {
             if (!!result.length) {
