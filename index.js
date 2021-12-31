@@ -42,7 +42,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
         await waitFor(3000);
         wiki({
             apiUrl: 'https://en.wikipedia.org/w/api.php',
-            headers: { 'User-Agent': 'WikiSgLinksBot/1.1.1 (https://github.com/robertsky/wikisglinks) wikijs/6.3.2' }
+            headers: { 'User-Agent': 'WikiSgLinksBot/1.1.2 (https://github.com/robertsky/wikisglinks) wikijs/6.3.2' }
         }).pagesInCategory('Category:' + catList).then(function(result) {
             var filteredResult = result.filter(title => (!title.startsWith('File:') && !title.startsWith('Category:') && !title.startsWith('User:') && !title.startsWith('Draft:') && !title.startsWith('Book:') && !title.startsWith('Template:')));
             filteredResult.forEach(function(val,idx) {
