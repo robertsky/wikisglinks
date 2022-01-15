@@ -97,7 +97,6 @@
 1939 establishments in Singapore
 1939 in Singapore
 1940s disestablishments in Singapore
-1940s disestablishments in Singapore
 1940s establishments in Singapore
 1940s in Singapore
 1940s in Singaporean sport
@@ -389,7 +388,6 @@
 2000s disestablishments in Singapore
 2000s establishments in Singapore
 2000s in Singapore
-2000s in Singapore
 2000s in Singaporean sport
 2000s in Singaporean television
 2000s murders in Singapore
@@ -407,7 +405,6 @@
 2002 Singaporean television seasons
 2002 Singaporean television series debuts
 2002 Singaporean television series endings
-2002 disestablishments in Singapore
 2002 disestablishments in Singapore
 2002 establishments in Singapore
 2002 in Singapore
@@ -493,7 +490,6 @@
 2010 Summer Youth Olympics events
 2010 Summer Youth Olympics pictograms
 2010 crimes in Singapore
-2010 crimes in Singapore
 2010 disestablishments in Singapore
 2010 establishments in Singapore
 2010 in Singapore
@@ -536,7 +532,6 @@
 2012 in Singaporean sport
 2012 in Singaporean television
 2012–13 in Singaporean basketball
-2013 Singapore Cup
 2013 Singapore Cup
 2013 Singaporean television seasons
 2013 Singaporean television series debuts
@@ -602,6 +597,7 @@
 2017 in Singaporean women's sport
 2017–18 in Singaporean basketball
 2018 Hassanal Bolkiah Trophy
+2018 Singaporean television seasons
 2018 Singaporean television series debuts
 2018 Singaporean television series endings
 2018 disestablishments in Singapore
@@ -621,31 +617,35 @@
 2019 in Singaporean television
 2019–20 in Singaporean basketball
 2020 Singaporean general election
+2020 Singaporean television series debuts
 2020 disestablishments in Singapore
 2020 establishments in Singapore
 2020 in Singapore
 2020 in Singaporean football
 2020 in Singaporean sport
+2020 in Singaporean television
+2020s Singaporean television seasons
 2020s Singaporean television series
+2020s Singaporean television series debuts
 2020s crimes in Singapore
 2020s disestablishments in Singapore
-2020s disestablishments in Singapore
 2020s establishments in Singapore
-2020s establishments in Singapore
-2020s in Singapore
 2020s in Singapore
 2020s in Singaporean sport
 2020s in Singaporean television
 2020s murders in Singapore
+2021 Singaporean television seasons
 2021 disestablishments in Singapore
 2021 establishments in Singapore
 2021 in Singapore
 2021 in Singaporean football
+2021 in Singaporean television
 2022 in Singapore
 2022 in Singaporean football
 2023 in Singapore
 2025 in Singapore
 20th century in Singapore
+20th century in Singaporean television
 20th-century Roman Catholic church buildings in Singapore
 20th-century Singaporean actresses
 20th-century Singaporean businesspeople
@@ -659,6 +659,10 @@
 20th-century Singaporean physicians
 20th-century Singaporean politicians
 20th-century Singaporean singers
+20th-century Singaporean television seasons
+20th-century Singaporean television series
+20th-century Singaporean television series debuts
+20th-century Singaporean television series endings
 20th-century Singaporean women
 20th-century Singaporean women musicians
 20th-century Singaporean women singers
@@ -666,6 +670,7 @@
 20th-century Singaporean writers
 20th-century churches in Singapore
 20th-century executions by Singapore
+21st century in Singaporean television
 21st-century Singaporean actresses
 21st-century Singaporean biologists
 21st-century Singaporean businesspeople
@@ -678,6 +683,10 @@
 21st-century Singaporean politicians
 21st-century Singaporean scientists
 21st-century Singaporean singers
+21st-century Singaporean television seasons
+21st-century Singaporean television series
+21st-century Singaporean television series debuts
+21st-century Singaporean television series endings
 21st-century Singaporean women
 21st-century Singaporean women musicians
 21st-century Singaporean women scientists
@@ -985,7 +994,7 @@ Chinese languages in Singapore
 Chinese people of Singaporean descent
 Chinese-Singaporean culture
 Chinese-language Singaporean films
-Chinese-language media in Singapore
+Chinese-language mass media in Singapore
 Choa Chu Kang
 Christian schools in Singapore
 Christianity in Singapore
@@ -1082,7 +1091,7 @@ Defunct football competitions in Singapore
 Defunct football venues in Singapore
 Defunct horse racing venues in Singapore
 Defunct hospitals in Singapore
-Defunct magazines of Singapore
+Defunct magazines published in Singapore
 Defunct mass media in Singapore
 Defunct organisations based in Singapore
 Defunct political parties in Singapore
@@ -1578,7 +1587,6 @@ Lists of tourist attractions in Singapore
 Literary festivals in Singapore
 Logistics companies of Singapore
 Logos of airports in Singapore
-Logos of airports in Singapore
 Lorong Halus
 Loyang, Singapore
 Machine guns of Singapore
@@ -1607,6 +1615,8 @@ Mass Rapid Transit (Singapore) depots
 Mass Rapid Transit (Singapore) lines
 Mass Rapid Transit (Singapore) rolling stock
 Mass Rapid Transit (Singapore) stations
+Mass media companies of Singapore
+Mass media in Singapore
 Mass media in Singapore stubs
 Massacres in Singapore
 Maternity in Singapore
@@ -1623,6 +1633,7 @@ Members of the Cabinet of Singapore
 Members of the Legislative Council of Singapore
 Members of the Parliament of Singapore
 Members of the Public Service Commission (Singapore)
+Men's magazines published in Singapore
 Men's national sports teams of Singapore
 Men's sport in Singapore
 Mental health in Singapore
@@ -1727,7 +1738,7 @@ New Zealand expatriates in Singapore
 New Zealand people of Singaporean descent
 New Zealand–Singapore relations
 New towns in Singapore
-News media of Singapore
+News media in Singapore
 Newspaper companies of Singapore
 Newspapers published in Singapore
 Newton, Singapore
@@ -1775,6 +1786,7 @@ Organisations based in Singapore by subject
 Organisations of the Singapore Government
 Organised crime groups in Singapore
 Organised crime in Singapore
+Original programming by Singaporean television network or channel
 Outdoor sculptures in Singapore
 Outram, Singapore
 PDC World Cup of Darts Singaporean team
@@ -1914,7 +1926,6 @@ Railway stations in Serangoon
 Railway stations in Singapore
 Railways of amusement parks in Singapore
 Rajas of Singapore
-Rapid transit in Singapore
 Rapid transit in Singapore
 Rapid transit lines in Singapore
 Rapid transit stations in Singapore
@@ -2230,6 +2241,7 @@ Singaporean bishops
 Singaporean black-and-white films
 Singaporean bloggers
 Singaporean bodybuilders
+Singaporean books
 Singaporean botanists
 Singaporean boxers
 Singaporean boy bands
@@ -2331,6 +2343,7 @@ Singaporean concert bands
 Singaporean constitutional case law
 Singaporean constitutional law
 Singaporean consultants
+Singaporean crime television series
 Singaporean criminal law
 Singaporean criminals
 Singaporean cuisine
@@ -2422,6 +2435,7 @@ Singaporean female equestrians
 Singaporean female fencers
 Singaporean female field hockey players
 Singaporean female figure skaters
+Singaporean female foil fencers
 Singaporean female freestyle swimmers
 Singaporean female hurdlers
 Singaporean female long-distance runners
@@ -2434,6 +2448,7 @@ Singaporean female mixed martial artists
 Singaporean female models
 Singaporean female murderers
 Singaporean female rowers
+Singaporean female sabre fencers
 Singaporean female sailors (sport)
 Singaporean female short track speed skaters
 Singaporean female singers
@@ -2446,9 +2461,11 @@ Singaporean female swimmers
 Singaporean female table tennis players
 Singaporean female tennis players
 Singaporean female weightlifters
+Singaporean female épée fencers
 Singaporean feminists
 Singaporean fiction
 Singaporean figure skaters
+Singaporean film actors
 Singaporean film actresses
 Singaporean film directors
 Singaporean film editors
@@ -2460,9 +2477,9 @@ Singaporean film studios
 Singaporean films
 Singaporean financial businesspeople
 Singaporean flautists
+Singaporean foil fencers
 Singaporean football biography stubs
 Singaporean football club seasons by year
-Singaporean football clubs 1996 season
 Singaporean football clubs 1996 season
 Singaporean football clubs 2008 season
 Singaporean football clubs 2009 season
@@ -2477,15 +2494,14 @@ Singaporean football clubs 2017 season
 Singaporean football clubs 2018 season
 Singaporean football clubs 2019 season
 Singaporean football clubs 2020 season
-Singaporean football clubs 2020 season
 Singaporean football clubs 2021 season
 Singaporean football clubs 2022 season
 Singaporean football logos
 Singaporean football managers
 Singaporean football referees
 Singaporean footballers
-Singaporean footballers
 Singaporean fusion cuisine
+Singaporean game shows
 Singaporean gangsters
 Singaporean general practitioners
 Singaporean girl groups
@@ -2526,6 +2542,7 @@ Singaporean law
 Singaporean lawyers
 Singaporean legal officers
 Singaporean legal scholars
+Singaporean legal television series
 Singaporean legislation
 Singaporean librarians
 Singaporean literature
@@ -2544,6 +2561,7 @@ Singaporean male cyclists
 Singaporean male fencers
 Singaporean male field hockey players
 Singaporean male film actors
+Singaporean male foil fencers
 Singaporean male freestyle swimmers
 Singaporean male golfers
 Singaporean male high jumpers
@@ -2572,12 +2590,15 @@ Singaporean male voice actors
 Singaporean male water polo players
 Singaporean male weightlifters
 Singaporean male writers
+Singaporean male épée fencers
 Singaporean marching bands
 Singaporean martial artists
+Singaporean mass media people
 Singaporean mathematicians
-Singaporean media people
+Singaporean media personalities
 Singaporean media stubs
 Singaporean medical doctors
+Singaporean medical television series
 Singaporean men's basketball players
 Singaporean men's magazines
 Singaporean military doctors
@@ -2732,6 +2753,7 @@ Singaporean radio presenters
 Singaporean radio producers
 Singaporean rappers
 Singaporean real estate businesspeople
+Singaporean reality television series
 Singaporean record labels
 Singaporean record producers
 Singaporean records
@@ -2742,6 +2764,7 @@ Singaporean rock guitarists
 Singaporean rock music groups
 Singaporean romantic comedy films
 Singaporean rugby union players
+Singaporean sabre fencers
 Singaporean sailors (sport)
 Singaporean science websites
 Singaporean scientists
@@ -2785,14 +2808,33 @@ Singaporean table tennis players
 Singaporean taekwondo athletes
 Singaporean taxi drivers
 Singaporean teen films
+Singaporean television actors
 Singaporean television actresses
 Singaporean television awards
+Singaporean television co-productions
 Singaporean television films
 Singaporean television news programmes
+Singaporean television news shows
+Singaporean television people
 Singaporean television personalities
 Singaporean television presenters
+Singaporean television seasons
+Singaporean television seasons by century
+Singaporean television seasons by decade
+Singaporean television seasons by year
 Singaporean television series
+Singaporean television series by century
+Singaporean television series by decade
+Singaporean television series by genre
+Singaporean television series debuts
+Singaporean television series debuts by decade
+Singaporean television series debuts by year
+Singaporean television series endings
+Singaporean television series endings by decade
+Singaporean television series endings by year
+Singaporean television shows
 Singaporean television sitcoms
+Singaporean television specials
 Singaporean television-related lists
 Singaporean ten-pin bowling players
 Singaporean theatre directors
@@ -2831,11 +2873,12 @@ Singaporean women short story writers
 Singaporean women television presenters
 Singaporean women writers
 Singaporean women's footballers
-Singaporean women's footballers
 Singaporean women's rights activists
 Singaporean writers
 Singaporean wuxia television series
+Singaporean épée fencers
 Singaporeans First politicians
+Singapore–Malaysia television co-productions
 Singapore–South Africa relations
 Singapore–South Korea relations
 Singapore–Switzerland relations
@@ -2945,6 +2988,9 @@ Telecommunications companies of Singapore
 Telecommunications in Singapore
 Television episodes set in Singapore
 Television in Singapore
+Television in Singapore by century
+Television in Singapore by decade
+Television in Singapore by year
 Television news in Singapore
 Television shows filmed in Singapore
 Television shows set in Singapore
@@ -3031,6 +3077,7 @@ Victims of aviation accidents or incidents in Singapore
 Victoria schools, Singapore
 Victory-class corvettes
 Video game companies of Singapore
+Video games developed in Singapore
 Vietnamese emigrants to Singapore
 Violence in Singapore
 Violent deaths in Singapore
@@ -3043,7 +3090,6 @@ WOHA
 WTA Singapore Open
 Warriors FC
 Warriors FC head coaches
-Warriors FC players
 Warriors FC players
 Warriors FC seasons
 Wars involving Singapore
