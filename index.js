@@ -99,7 +99,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n\n");
     writeFile.write("{{Index footer}}\n\n");
     writeFile.write("{{DEFAULTSORT:Index Of Singapore-related Articles}}\n");
-    writeFile.write("[[Category:Singapore-related lists]]\n");
+    writeFile.write("[[Category:Singapore-related lists| ]]\n");
     writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
     console.log('Write complete...');
     console.log('Ready for verification and upload.');

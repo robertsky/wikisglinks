@@ -12148,5 +12148,5 @@ Articles related to '''[[Singapore]]''' include:
 {{Index footer}}
 
 {{DEFAULTSORT:Index Of Singapore-related Articles}}
-[[Category:Singapore-related lists]]
+[[Category:Singapore-related lists| ]]
 [[Category:Indexes of topics by country|Singapore]]
