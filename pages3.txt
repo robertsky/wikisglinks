@@ -12148,7 +12148,7 @@ Articles related to '''[[Singapore]]''' include:
 * [[Željko Savić]]
 {{div col end}}
 ==See also==
-{{portal-mobile|Singapore|Cities|Islands|Asia}}
+{{portal|border=no|Singapore|Cities|Islands|Asia}}
 *[[Outline of Singapore]]
 *[[Lists of country-related topics]] - similar lists for other countries
 
