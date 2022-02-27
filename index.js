@@ -93,10 +93,10 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
         writeFile.write('* [[' + title + ']]\n');
     })
     writeFile.write('{{div col end}}\n');
-    writeFile.write("==See also==\n");
-    writeFile.write("{{portal|border=no|Singapore|Cities|Islands|Asia}}\n");
+    writeFile.write("==See also==\n\n");
     writeFile.write("*[[Outline of Singapore]]\n");
-    writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n\n");
+    writeFile.write("*[[Lists of country-related topics]] - similar lists for other countries\n");
+    writeFile.write("{{portal bar|Singapore|Cities|Islands|Asia}}\n");
     writeFile.write("{{Index footer}}\n\n");
     writeFile.write("{{DEFAULTSORT:Index Of Singapore-related Articles}}\n");
     writeFile.write("[[Category:Singapore-related lists| ]]\n");
