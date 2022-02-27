@@ -15,6 +15,8 @@
 1858 in Singapore
 1861 establishments in Singapore
 1862 disestablishments in Singapore
+1862 establishments in Singapore
+1862 in Singapore
 1865 establishments in Singapore
 1872 in Singapore
 1874 establishments in Singapore
@@ -696,6 +698,7 @@
 21st-century executions by Singapore
 AIDS-related deaths in Singapore
 Academia in Singapore
+Academics of the National University of Singapore Faculty of Law
 Accidental deaths in Singapore
 Accidents and incidents involving Mass Rapid Transit (Singapore)
 Administrators in British Singapore
@@ -1203,6 +1206,7 @@ Expatriate rugby union players in Singapore
 Expatriate sportspeople in Singapore
 Expatriates from Georgia (country) in Singapore
 Explosions in Singapore
+Faculty by university in Singapore
 Faculty of the Singapore Management University School of Law
 Family businesses of Singapore
 Family in Singapore
@@ -1511,6 +1515,7 @@ Korean-language singers of Singapore
 Kranji
 Kyrgyzstani expatriate sportspeople in Singapore
 LASALLE College of the Arts
+LASALLE College of the Arts faculty
 LGBT culture in Singapore
 LGBT events in Singapore
 LGBT history in Singapore
@@ -1708,13 +1713,18 @@ Music schools in Singapore
 Music venues in Singapore
 Musical instrument manufacturing companies of Singapore
 Nanyang Academy of Fine Arts
+Nanyang Academy of Fine Arts faculty
 Nanyang Junior College
 Nanyang Technological University
+Nanyang Technological University faculty
 Nanyang University
+Nanyang University faculty
+National Institute of Education faculty
 National Museum of Singapore
 National Solidarity Party (Singapore) politicians
 National University of Singapore
 National University of Singapore deans
+National University of Singapore faculty
 National monuments of Singapore
 National museums of Singapore
 National sports teams of Singapore
@@ -2095,6 +2105,8 @@ Singapore Literature Prize
 Singapore Literature Prize winners
 Singapore MRT stubs
 Singapore Management University
+Singapore Management University School of Law faculty
+Singapore Management University faculty
 Singapore National Football League
 Singapore Open (badminton)
 Singapore Open (men's tennis)
@@ -2399,6 +2411,7 @@ Singaporean esports players
 Singaporean executioners
 Singaporean exiles
 Singaporean expatriate actors
+Singaporean expatriate football managers
 Singaporean expatriate footballers
 Singaporean expatriate sportspeople in Australia
 Singaporean expatriate sportspeople in Indonesia
@@ -3004,6 +3017,7 @@ Television stations in Singapore
 Telok Blangah
 Temasek Holdings
 Temasek Holdings people
+Temasek Polytechnic faculty
 Temples in Singapore
 Tengah
 Tennis at the 2010 Summer Youth Olympics
@@ -3142,6 +3156,7 @@ Wormrot albums
 Wrestling at the 2010 Summer Youth Olympics
 Wrestling in Singapore
 Wushu in Singapore
+Yale-NUS College
 Years in Singapore
 Years of the 20th century in Singapore
 Years of the 21st century in Singapore
