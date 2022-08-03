@@ -229,6 +229,7 @@
 1978 establishments in Singapore
 1978 in Singapore
 1979 crimes in Singapore
+1979 disestablishments in Singapore
 1979 establishments in Singapore
 1979 in Singapore
 1980 disestablishments in Singapore
@@ -246,6 +247,7 @@
 1980s in Singaporean television
 1980s murders in Singapore
 1981 crimes in Singapore
+1981 disestablishments in Singapore
 1981 establishments in Singapore
 1981 in Singapore
 1982 disestablishments in Singapore
@@ -290,6 +292,7 @@
 1988 in Singapore
 1988 in Singaporean sport
 1988 in Singaporean television
+1989 disestablishments in Singapore
 1989 establishments in Singapore
 1989 in Singapore
 1989 in Singaporean sport
@@ -722,6 +725,7 @@ Algerian expatriates in Singapore
 Aljunied
 Ambassadors of Afghanistan to Singapore
 Ambassadors of Albania to Singapore
+Ambassadors of Algeria to Singapore
 Ambassadors of Bhutan to Singapore
 Ambassadors of Cambodia to Singapore
 Ambassadors of China to Singapore
@@ -1106,6 +1110,7 @@ Defunct horse racing venues in Singapore
 Defunct hospitals in Singapore
 Defunct magazines published in Singapore
 Defunct mass media in Singapore
+Defunct newspapers published in Singapore
 Defunct organisations based in Singapore
 Defunct political parties in Singapore
 Defunct railway companies of Singapore
@@ -1238,6 +1243,7 @@ Filipino expatriate basketball people in Singapore
 Filipino expatriate sportspeople in Singapore
 Filipino expatriates in Singapore
 Film censorship in Singapore
+Film controversies in Singapore
 Film festivals in Singapore
 Film organisations in Singapore
 Film production companies of Singapore
@@ -1598,6 +1604,7 @@ Lists of events in Singapore
 Lists of government ministers of Singapore
 Lists of landforms of Singapore
 Lists of mass media in Singapore
+Lists of number-one songs in Singapore
 Lists of organisations based in Singapore
 Lists of political office-holders in Singapore
 Lists of religious buildings and structures in Singapore
@@ -2279,6 +2286,7 @@ Singaporean beauty pageant winners
 Singaporean billionaires
 Singaporean biologists
 Singaporean bishops
+Singaporean black comedy films
 Singaporean black-and-white films
 Singaporean bloggers
 Singaporean bodybuilders
@@ -2322,6 +2330,7 @@ Singaporean columnists
 Singaporean comedians
 Singaporean comedy
 Singaporean comedy films
+Singaporean comedy horror films
 Singaporean comedy television series
 Singaporean comedy-drama films
 Singaporean comics artists
@@ -2448,6 +2457,7 @@ Singaporean expatriate sportspeople in the United States
 Singaporean expatriates in Australia
 Singaporean expatriates in Brunei
 Singaporean expatriates in Cameroon
+Singaporean expatriates in France
 Singaporean expatriates in Germany
 Singaporean expatriates in Hong Kong
 Singaporean expatriates in Hungary
@@ -2660,6 +2670,7 @@ Singaporean murderers of children
 Singaporean music
 Singaporean music awards
 Singaporean music websites
+Singaporean musical comedy films
 Singaporean musical films
 Singaporean musical groups
 Singaporean musical theatre actors
@@ -2975,6 +2986,7 @@ Sports organisations of Singapore
 Sports teams in Singapore
 Sports television in Singapore
 Sports venues in Singapore
+Sportspeople from Singapore
 Sportspeople of Singaporean descent
 Spouses of Prime Ministers of Singapore
 Squadron badges of the Republic of Singapore Air Force
@@ -3116,6 +3128,7 @@ Universities in Singapore
 University of Singapore
 University presses of Singapore
 Unmanned aerial vehicles of Singapore
+Unsolved murders in Singapore
 Urban planning in Singapore
 Vasantham (TV channel)
 Vegetable dishes of Singapore
