@@ -173,6 +173,7 @@
 1963 disestablishments in Singapore
 1963 establishments in Singapore
 1963 in Singapore
+1963 murders in Singapore
 1964 crimes in Singapore
 1964 establishments in Singapore
 1964 in Singapore
@@ -181,6 +182,7 @@
 1965 disestablishments in Singapore
 1965 establishments in Singapore
 1965 in Singapore
+1965 murders in Singapore
 1966 establishments in Singapore
 1966 in Singapore
 1966 in Singaporean sport
@@ -195,6 +197,7 @@
 1970 disestablishments in Singapore
 1970 establishments in Singapore
 1970 in Singapore
+1970 murders in Singapore
 1970s crimes in Singapore
 1970s disestablishments in Singapore
 1970s establishments in Singapore
@@ -205,10 +208,12 @@
 1971 establishments in Singapore
 1971 in Singapore
 1971 in Singaporean sport
+1971 murders in Singapore
 1972 disestablishments in Singapore
 1972 establishments in Singapore
 1972 in Singapore
 1972 in Singaporean sport
+1972 murders in Singapore
 1973 establishments in Singapore
 1973 in Singapore
 1973 in Singaporean sport
@@ -232,6 +237,7 @@
 1979 disestablishments in Singapore
 1979 establishments in Singapore
 1979 in Singapore
+1979 murders in Singapore
 1980 disestablishments in Singapore
 1980 establishments in Singapore
 1980 in Singapore
@@ -250,6 +256,7 @@
 1981 disestablishments in Singapore
 1981 establishments in Singapore
 1981 in Singapore
+1981 murders in Singapore
 1982 disestablishments in Singapore
 1982 establishments in Singapore
 1982 in Singapore
@@ -262,6 +269,7 @@
 1983 in Singapore
 1983 in Singaporean sport
 1983 in Singaporean television
+1983 murders in Singapore
 1984 Singaporean television series debuts
 1984 crimes in Singapore
 1984 disestablishments in Singapore
@@ -269,6 +277,7 @@
 1984 in Singapore
 1984 in Singaporean sport
 1984 in Singaporean television
+1984 murders in Singapore
 1985 disestablishments in Singapore
 1985 establishments in Singapore
 1985 in Singapore
@@ -296,6 +305,7 @@
 1989 establishments in Singapore
 1989 in Singapore
 1989 in Singaporean sport
+1989 murders in Singapore
 1990 establishments in Singapore
 1990 in Singapore
 1990 in Singaporean sport
@@ -331,6 +341,7 @@
 1994 in Singapore
 1994 in Singaporean sport
 1994 in Singaporean television
+1994 murders in Singapore
 1995 Singaporean television series debuts
 1995 Singaporean television series endings
 1995 disestablishments in Singapore
@@ -347,6 +358,7 @@
 1996 in Singaporean football
 1996 in Singaporean sport
 1996 in Singaporean television
+1996 murders in Singapore
 1997 Singaporean television series debuts
 1997 Singaporean television series endings
 1997 disestablishments in Singapore
@@ -355,6 +367,7 @@
 1997 in Singaporean football
 1997 in Singaporean sport
 1997 in Singaporean television
+1997 murders in Singapore
 1998 Singaporean television series debuts
 1998 Singaporean television series endings
 1998 disestablishments in Singapore
@@ -363,6 +376,7 @@
 1998 in Singaporean football
 1998 in Singaporean sport
 1998 in Singaporean television
+1998 murders in Singapore
 1999 Singaporean television series debuts
 1999 Singaporean television series endings
 1999 disestablishments in Singapore
@@ -372,6 +386,7 @@
 1999 in Singaporean sport
 1999 in Singaporean television
 1999 in Singaporean women's sport
+1999 murders in Singapore
 19th century in Singapore
 19th-century Roman Catholic church buildings in Singapore
 19th-century Singaporean lawyers
@@ -388,6 +403,7 @@
 2000 in Singaporean football
 2000 in Singaporean sport
 2000 in Singaporean television
+2000 murders in Singapore
 2000s Singaporean television seasons
 2000s Singaporean television series
 2000s Singaporean television series debuts
@@ -409,6 +425,7 @@
 2001 in Singaporean football
 2001 in Singaporean sport
 2001 in Singaporean television
+2001 murders in Singapore
 2002 AFF Championship
 2002 Singaporean television seasons
 2002 Singaporean television series debuts
@@ -439,6 +456,7 @@
 2004 in Singaporean football
 2004 in Singaporean sport
 2004 in Singaporean television
+2004 murders in Singapore
 2005 Singaporean television seasons
 2005 Singaporean television series debuts
 2005 Singaporean television series endings
@@ -448,6 +466,7 @@
 2005 in Singaporean football
 2005 in Singaporean sport
 2005 in Singaporean television
+2005 murders in Singapore
 2006 Singaporean general election
 2006 Singaporean television seasons
 2006 Singaporean television series debuts
@@ -459,6 +478,7 @@
 2006 in Singaporean sport
 2006 in Singaporean television
 2006 in Singaporean women's sport
+2006 murders in Singapore
 2007 Singaporean television seasons
 2007 Singaporean television series debuts
 2007 Singaporean television series endings
@@ -478,6 +498,7 @@
 2008 in Singaporean football
 2008 in Singaporean sport
 2008 in Singaporean television
+2008 murders in Singapore
 2009 Asian Youth Games
 2009 Asian Youth Games events
 2009 Singaporean television seasons
@@ -623,15 +644,18 @@
 2019 in Singaporean football
 2019 in Singaporean sport
 2019 in Singaporean television
+2019 murders in Singapore
 2019–20 in Singaporean basketball
 2020 Singaporean general election
 2020 Singaporean television series debuts
+2020 crimes in Singapore
 2020 disestablishments in Singapore
 2020 establishments in Singapore
 2020 in Singapore
 2020 in Singaporean football
 2020 in Singaporean sport
 2020 in Singaporean television
+2020 murders in Singapore
 2020s Singaporean television seasons
 2020s Singaporean television series
 2020s Singaporean television series debuts
@@ -641,6 +665,7 @@
 2020s in Singapore
 2020s in Singaporean sport
 2020s in Singaporean television
+2020s murders in Singapore
 2020s murders in Singapore
 2021 Singaporean television seasons
 2021 disestablishments in Singapore
@@ -829,6 +854,7 @@ Arts organisations based in Singapore
 Arts schools in Singapore
 Asian Civilisations Museum
 Asian Games competitors for Singapore
+Asian art museums in Singapore
 Assault rifles of Singapore
 Athletics (track and field) venues in Singapore
 Athletics at the 2010 Summer Youth Olympics
@@ -1727,6 +1753,7 @@ Multinational companies headquartered in Singapore
 Murder in Singapore
 Murdered Singaporean children
 Murdered Singaporean police officers
+Murders in Singapore by year
 Museum Planning Area
 Museums in Singapore
 Music events in Singapore
@@ -2758,6 +2785,7 @@ Singaporean people of Malian descent
 Singaporean people of Minangkabau descent
 Singaporean people of Nigerian descent
 Singaporean people of Northern Han Chinese descent
+Singaporean people of Norwegian descent
 Singaporean people of Pakistani descent
 Singaporean people of Parsi descent
 Singaporean people of Peranakan descent
