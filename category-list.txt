@@ -519,6 +519,7 @@
 2010 in Singaporean football
 2010 in Singaporean sport
 2010 in Singaporean television
+2010 murders in Singapore
 2010 Singaporean television seasons
 2010 Singaporean television series debuts
 2010 Singaporean television series endings
@@ -570,6 +571,7 @@
 2013 in Singaporean sport
 2013 in Singaporean television
 2013 in Singaporean women's sport
+2013 murders in Singapore
 2013 Singapore Cup
 2013 Singaporean television seasons
 2013 Singaporean television series debuts
@@ -596,6 +598,7 @@
 2015 in Singaporean sport
 2015 in Singaporean television
 2015 in Singaporean women's sport
+2015 murders in Singapore
 2015 SEABA Championship
 2015 Singaporean general election
 2015 Singaporean television seasons
@@ -623,6 +626,7 @@
 2017 in Singaporean sport
 2017 in Singaporean television
 2017 in Singaporean women's sport
+2017 murders in Singapore
 2017 Singaporean television seasons
 2017 Singaporean television series debuts
 2017 Singaporean television series endings
@@ -634,6 +638,7 @@
 2018 in Singaporean football
 2018 in Singaporean sport
 2018 in Singaporean television
+2018 murders in Singapore
 2018 Singaporean television seasons
 2018 Singaporean television series debuts
 2018 Singaporean television series endings
@@ -682,10 +687,13 @@
 2022 in Singaporean football
 2023 establishments in Singapore
 2023 in Singapore
+2023 in Singapore
+2023 in Singaporean football
 2025 in Singapore
 20th century in Singapore
 20th century in Singaporean television
 20th-century churches in Singapore
+20th-century disasters in Singapore
 20th-century executions by Singapore
 20th-century Roman Catholic church buildings in Singapore
 20th-century Singaporean actresses
@@ -710,6 +718,7 @@
 20th-century Singaporean women writers
 20th-century Singaporean writers
 21st century in Singaporean television
+21st-century disasters in Singapore
 21st-century executions by Singapore
 21st-century Singaporean actresses
 21st-century Singaporean biologists
@@ -993,6 +1002,7 @@ Cape Verdean expatriates in Singapore
 Capital punishment in Singapore
 CapitaLand
 Casinos in Singapore
+Cat breeds originating in Singapore
 Cathedrals in Singapore
 Catholic Church in Singapore
 Catholic schools in Singapore
@@ -1100,6 +1110,7 @@ Crematoria in Singapore
 Cricket grounds in Singapore
 Crime in Singapore
 Crime in Singapore by type
+Crimes in Singapore by century
 Croatian emigrants to Singapore
 Croatian expatriate sportspeople in Singapore
 Croatian expatriates in Singapore
@@ -1166,6 +1177,9 @@ Diplomatic missions in Singapore
 Diplomatic missions of Singapore
 Disability in Singapore
 Disability organisations based in Singapore
+Disasters in Singapore by century
+Disasters in Singapore by decade
+Disasters in Singapore by year
 Discographies of Singaporean artists
 Disease outbreaks in Singapore
 Disease-related deaths in Singapore
@@ -1236,6 +1250,7 @@ Ethnic groups in Singapore
 Ethnic museums in Singapore
 Eurasian cuisine of Singapore
 European diaspora in Singapore
+European restaurants in Singapore
 Evangelical megachurches in Singapore
 Event management companies of Singapore
 Event venues in Singapore
@@ -1336,6 +1351,7 @@ Freedom of speech in Singapore
 French expatriate sportspeople in Singapore
 French expatriates in Singapore
 French people of Singaporean descent
+French restaurants in Singapore
 Fugitives wanted by Singapore
 Funerals in Singapore
 Furniture companies of Singapore
@@ -1962,6 +1978,7 @@ Protestantism in Singapore
 Protests in Singapore
 Psychiatric hospitals in Singapore
 Public art in Singapore
+Public finance of Singapore
 Public holidays in Singapore
 Public housing in Singapore
 Public Service Commission (Singapore)
@@ -2040,6 +2057,7 @@ Resorts World Sentosa
 Respiratory disease deaths in Singapore
 Restaurant chains in Singapore
 Restaurants in Singapore
+Restaurants in Singapore by ethnicity
 Retail buildings in Singapore
 Retail companies of Singapore
 Retailing in Singapore
@@ -2168,7 +2186,6 @@ Singapore at the Youth Olympics
 Singapore ATP Challenger
 Singapore Business Federation
 Singapore Changi Airport
-Singapore chess players
 Singapore Chinese dramas
 Singapore City Council elections
 Singapore communications-related lists
@@ -2313,6 +2330,7 @@ Singaporean Charismatics
 Singaporean chefs
 Singaporean chemical engineers
 Singaporean chemists
+Singaporean chess players
 Singaporean chief executives
 Singaporean children
 Singaporean children's literature
@@ -2392,6 +2410,7 @@ Singaporean companies established in 2012
 Singaporean companies established in 2014
 Singaporean companies established in 2015
 Singaporean companies established in 2016
+Singaporean companies established in 2017
 Singaporean companies established in 2021
 Singaporean composers
 Singaporean computer programmers
@@ -2567,6 +2586,7 @@ Singaporean football clubs 2019 season
 Singaporean football clubs 2020 season
 Singaporean football clubs 2021 season
 Singaporean football clubs 2022 season
+Singaporean football clubs 2023 season
 Singaporean football logos
 Singaporean football managers
 Singaporean football referees
@@ -2964,6 +2984,7 @@ Singaporean women activists
 Singaporean women ambassadors
 Singaporean women architects
 Singaporean women artists
+Singaporean women bloggers
 Singaporean women chemists
 Singaporean women columnists
 Singaporean women comedians
