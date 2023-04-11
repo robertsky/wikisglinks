@@ -40,6 +40,8 @@
 1901 establishments in Singapore
 1902 establishments in Singapore
 1903 establishments in Singapore
+1904 establishments in Singapore
+1904 in Singapore
 1905 disestablishments in Singapore
 1905 establishments in Singapore
 1907 disestablishments in Singapore
@@ -192,8 +194,10 @@
 1968 establishments in Singapore
 1968 in Singapore
 1968 in Singaporean sport
+1968 murders in Singapore
 1969 establishments in Singapore
 1969 in Singapore
+1969 murders in Singapore
 1970 disestablishments in Singapore
 1970 establishments in Singapore
 1970 in Singapore
@@ -282,6 +286,7 @@
 1985 establishments in Singapore
 1985 in Singapore
 1985 in Singaporean sport
+1985 murders in Singapore
 1986 disestablishments in Singapore
 1986 establishments in Singapore
 1986 in Singapore
@@ -335,6 +340,7 @@
 1993 in Singaporean football
 1993 in Singaporean sport
 1993 in Singaporean television
+1993 murders in Singapore
 1993 Singaporean television seasons
 1993 Southeast Asian Games
 1994 disestablishments in Singapore
@@ -350,6 +356,7 @@
 1995 in Singapore
 1995 in Singaporean sport
 1995 in Singaporean television
+1995 murders in Singapore
 1995 Singaporean television series debuts
 1995 Singaporean television series endings
 1996 disestablishments in Singapore
@@ -560,6 +567,7 @@
 2012 Hassanal Bolkiah Trophy
 2012 in Singapore
 2012 in Singaporean football
+2012 in Singaporean motorsport
 2012 in Singaporean sport
 2012 in Singaporean television
 2012 Singaporean television seasons
@@ -571,6 +579,7 @@
 2013 establishments in Singapore
 2013 in Singapore
 2013 in Singaporean football
+2013 in Singaporean motorsport
 2013 in Singaporean sport
 2013 in Singaporean television
 2013 in Singaporean women's sport
@@ -586,6 +595,7 @@
 2014 Hassanal Bolkiah Trophy
 2014 in Singapore
 2014 in Singaporean football
+2014 in Singaporean motorsport
 2014 in Singaporean sport
 2014 in Singaporean television
 2014 in Singaporean women's sport
@@ -598,6 +608,7 @@
 2015 establishments in Singapore
 2015 in Singapore
 2015 in Singaporean football
+2015 in Singaporean motorsport
 2015 in Singaporean sport
 2015 in Singaporean television
 2015 in Singaporean women's sport
@@ -614,6 +625,7 @@
 2016 establishments in Singapore
 2016 in Singapore
 2016 in Singaporean football
+2016 in Singaporean motorsport
 2016 in Singaporean sport
 2016 in Singaporean television
 2016 in Singaporean women's sport
@@ -687,22 +699,27 @@
 2022 events in Singapore by month
 2022 in Singapore
 2022 in Singaporean football
+2022 in Singaporean motorsport
 2023 disestablishments in Singapore
 2023 establishments in Singapore
 2023 in Singapore
 2023 in Singaporean football
 2023 Tamil-language television seasons
+2024 establishments in Singapore
+2024 in Singapore
 2025 in Singapore
 20th century in Singapore
 20th century in Singaporean television
 20th-century churches in Singapore
 20th-century disasters in Singapore
 20th-century executions by Singapore
+20th-century murders in Singapore
 20th-century Roman Catholic church buildings in Singapore
 20th-century Singaporean actresses
 20th-century Singaporean businesspeople
 20th-century Singaporean educators
 20th-century Singaporean lawyers
+20th-century Singaporean LGBT people
 20th-century Singaporean male actors
 20th-century Singaporean male singers
 20th-century Singaporean musicians
@@ -723,11 +740,14 @@
 21st century in Singaporean television
 21st-century disasters in Singapore
 21st-century executions by Singapore
+21st-century murders in Singapore
 21st-century Singaporean actresses
 21st-century Singaporean biologists
 21st-century Singaporean businesspeople
+21st-century Singaporean dramatists and playwrights
 21st-century Singaporean educators
 21st-century Singaporean lawyers
+21st-century Singaporean LGBT people
 21st-century Singaporean male actors
 21st-century Singaporean male singers
 21st-century Singaporean musicians
@@ -812,9 +832,12 @@ Ambassadors of Singapore to Yugoslavia
 Ambassadors of Sweden to Singapore
 Ambassadors of Thailand to Singapore
 Ambassadors of the Comoros to Singapore
+Ambassadors of the European Union to Singapore
 Ambassadors of the Federated States of Micronesia to Singapore
+Ambassadors of the Soviet Union to Singapore
 Ambassadors of the United States to Singapore
 Ambassadors of Turkey to Singapore
+Ambassadors of Ukraine to Singapore
 Ambassadors to Singapore
 American emigrants to Singapore
 American expatriate sportspeople in Singapore
@@ -1230,6 +1253,7 @@ Engineering companies of Singapore
 English emigrants to Singapore
 English expatriate sportspeople in Singapore
 English expatriates in Singapore
+English language in Singapore
 English people of Singaporean descent
 English-language Singaporean films
 Entertainment companies of Singapore
@@ -1766,6 +1790,8 @@ Mortgage industry of Singapore
 Mosques in Singapore
 Moths of Singapore
 Motorsport in Singapore
+Motorsport in Singapore by decade
+Motorsport in Singapore by year
 Motorsport venues in Singapore
 Movie channels in Singapore
 Multi-purpose stadiums in Singapore
@@ -1775,6 +1801,7 @@ Multinational companies headquartered in Singapore
 Murder in Singapore
 Murdered Singaporean children
 Murdered Singaporean police officers
+Murders in Singapore by century
 Murders in Singapore by year
 Museum Planning Area
 Museums in Singapore
@@ -2141,11 +2168,14 @@ Sengkang Sports Centre
 Sengkang Town Centre
 Sentosa
 Serangoon
+Serbia and Montenegro expatriate sportspeople in Singapore
+Serbia and Montenegro expatriates in Singapore
 Serbian emigrants to Singapore
 Serbian expatriate basketball people in Singapore
 Serbian expatriate sportspeople in Singapore
 Serbian expatriates in Singapore
 Service companies of Singapore
+Sex crimes in Singapore
 Sexism in Singapore
 Sexuality in Singapore
 Shipbuilding companies of Singapore
@@ -2208,6 +2238,7 @@ Singapore geography stubs
 Singapore geography-related lists
 Singapore government policies
 Singapore Grand Prix
+Singapore health and fitness templates
 Singapore history-related lists
 Singapore Hokkien Huay Kuan schools
 Singapore Institute of Management
@@ -2243,6 +2274,7 @@ Singapore Premier League seasons
 Singapore Premier League venues
 Singapore Press Holdings
 Singapore Press Holdings people
+Singapore public transit user templates
 Singapore religious cases
 Singapore River
 Singapore road stubs
@@ -2255,6 +2287,7 @@ Singapore sports governing body logos
 Singapore Sports School
 Singapore stubs
 Singapore Tamil dramas
+Singapore technology and applied science templates
 Singapore transport stubs
 Singapore transport-related lists
 Singapore University of Social Sciences
@@ -2304,6 +2337,7 @@ Singaporean basketball players
 Singaporean beauty pageant winners
 Singaporean billionaires
 Singaporean biologists
+Singaporean bisexual people
 Singaporean bishops
 Singaporean black comedy films
 Singaporean black-and-white films
@@ -2599,6 +2633,7 @@ Singaporean footballers
 Singaporean fusion cuisine
 Singaporean game shows
 Singaporean gangsters
+Singaporean gay men
 Singaporean general practitioners
 Singaporean girl groups
 Singaporean graffiti artists
@@ -2646,7 +2681,23 @@ Singaporean legal officers
 Singaporean legal scholars
 Singaporean legal television series
 Singaporean legislation
+Singaporean lesbians
+Singaporean LGBT artists
+Singaporean LGBT comedians
+Singaporean LGBT dramatists and playwrights
+Singaporean LGBT entertainers
+Singaporean LGBT journalists
+Singaporean LGBT musicians
+Singaporean LGBT novelists
+Singaporean LGBT painters
+Singaporean LGBT people by century
+Singaporean LGBT people by gender identity
 Singaporean LGBT people by occupation
+Singaporean LGBT people by sexual orientation
+Singaporean LGBT poets
+Singaporean LGBT politicians
+Singaporean LGBT singers
+Singaporean LGBT songwriters
 Singaporean LGBT-related films
 Singaporean librarians
 Singaporean literature
@@ -2738,6 +2789,7 @@ Singaporean neuroscientists
 Singaporean neurosurgeons
 Singaporean news websites
 Singaporean Nominated Members of Parliament
+Singaporean non-binary people
 Singaporean Non-constituency Members of Parliament
 Singaporean non-fiction writers
 Singaporean noodle dishes
@@ -2757,6 +2809,7 @@ Singaporean Peking opera actresses
 Singaporean Pentecostals
 Singaporean people
 Singaporean people convicted of kidnapping
+Singaporean people convicted of manslaughter
 Singaporean people convicted of murder
 Singaporean people murdered abroad
 Singaporean people of Arab descent
@@ -2883,6 +2936,7 @@ Singaporean religious leaders
 Singaporean Rhodes Scholars
 Singaporean rhythmic gymnasts
 Singaporean rice dishes
+Singaporean robbers
 Singaporean rock guitarists
 Singaporean rock music groups
 Singaporean Roman Catholic archbishops
@@ -2976,8 +3030,10 @@ Singaporean ten-pin bowling players
 Singaporean theatre directors
 Singaporean Theravada Buddhists
 Singaporean thriller films
+Singaporean TikTokers
 Singaporean time travel television series
 Singaporean trade unionists
+Singaporean transgender people
 Singaporean travel websites
 Singaporean venture capitalist
 Singaporean virologists
