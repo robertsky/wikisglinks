@@ -341,8 +341,8 @@
 1993 in Singaporean sport
 1993 in Singaporean television
 1993 murders in Singapore
+1993 SEA Games
 1993 Singaporean television seasons
-1993 Southeast Asian Games
 1994 disestablishments in Singapore
 1994 establishments in Singapore
 1994 in Singapore
@@ -614,13 +614,13 @@
 2015 in Singaporean television
 2015 in Singaporean women's sport
 2015 murders in Singapore
+2015 SEA Games
+2015 SEA Games events
 2015 SEABA Championship
 2015 Singaporean general election
 2015 Singaporean television seasons
 2015 Singaporean television series debuts
 2015 Singaporean television series endings
-2015 Southeast Asian Games
-2015 Southeast Asian Games events
 2015–16 in Singaporean basketball
 2016 disestablishments in Singapore
 2016 establishments in Singapore
@@ -897,7 +897,7 @@ Asian Games competitors for Singapore
 Assault rifles of Singapore
 Athletics (track and field) venues in Singapore
 Athletics at the 2010 Summer Youth Olympics
-Athletics at the 2015 Southeast Asian Games
+Athletics at the 2015 SEA Games
 Attacks in Singapore
 Attorneys-General of Singapore
 Audio equipment manufacturers of Singapore
@@ -917,7 +917,7 @@ Aviation history of Singapore
 Aviation in Singapore
 Aviation schools in Singapore
 Badminton at the 2010 Summer Youth Olympics
-Badminton at the 2015 Southeast Asian Games
+Badminton at the 2015 SEA Games
 Badminton in Singapore
 Badminton tournaments in Singapore
 Bakeries of Singapore
@@ -931,7 +931,7 @@ Baptist churches in Singapore
 Barisan Sosialis politicians
 Baseball in Singapore
 Basketball at the 2010 Summer Youth Olympics
-Basketball at the 2015 Southeast Asian Games
+Basketball at the 2015 SEA Games
 Basketball competitions in Singapore
 Basketball in Singapore
 Basketball teams in Singapore
@@ -1024,7 +1024,7 @@ Canals in Singapore
 Caning in Singapore
 Cannabis in Singapore
 Canoeing at the 2010 Summer Youth Olympics
-Canoeing at the 2015 Southeast Asian Games
+Canoeing at the 2015 SEA Games
 Canoeing in Singapore
 Cape Verdean expatriates in Singapore
 Capital punishment in Singapore
@@ -1304,7 +1304,7 @@ Fast-food chains of Singapore
 Fauna of Singapore
 Feminism in Singapore
 Fencing at the 2010 Summer Youth Olympics
-Fencing at the 2015 Southeast Asian Games
+Fencing at the 2015 SEA Games
 Fencing competitions in Singapore
 Fencing in Singapore
 Fernvale, Singapore
@@ -1343,7 +1343,7 @@ First Ladies and Gentlemen of Singapore
 Fish of Singapore
 Flags of Singapore
 Floods in Singapore
-Floorball at the 2015 Southeast Asian Games
+Floorball at the 2015 SEA Games
 Floorball in Singapore
 Flora of Singapore
 Folk museums in Singapore
@@ -1352,7 +1352,7 @@ Food and drink festivals in Singapore
 Food court in Singapore
 Food manufacturers of Singapore
 Football at the 2010 Summer Youth Olympics
-Football at the 2015 Southeast Asian Games
+Football at the 2015 SEA Games
 Football clubs in Singapore
 Football competitions in Singapore
 Football in Singapore
@@ -1427,7 +1427,7 @@ Gurkha Contingent
 Guyanese expatriate sportspeople in Singapore
 Gymkhana FC players
 Gymnastics at the 2010 Summer Youth Olympics
-Gymnastics at the 2015 Southeast Asian Games
+Gymnastics at the 2015 SEA Games
 Gymnastics in Singapore
 Haitian expatriate sportspeople in Singapore
 Hakka culture in Singapore
@@ -1833,10 +1833,10 @@ National sports teams of Singapore
 National symbols of Singapore
 National University of Singapore
 National University of Singapore deans
-Nations at the 1993 Southeast Asian Games
+Nations at the 1993 SEA Games
 Nations at the 2009 Asian Youth Games
 Nations at the 2010 Summer Youth Olympics
-Nations at the 2015 Southeast Asian Games
+Nations at the 2015 SEA Games
 Natural gas-fired power stations in Singapore
 Natural history of Singapore
 Naturalised citizens of Singapore
@@ -2132,14 +2132,14 @@ Royal Air Force stations in Singapore
 Royal Air Force stations of World War II in Singapore
 Royal residences in Singapore
 Rudra (band) albums
-Rugby sevens at the 2015 Southeast Asian Games
+Rugby sevens at the 2015 SEA Games
 Rugby union in Singapore
 Rugby union stadiums in Singapore
 Rui En albums
 Russia–Singapore relations
 S P Jain School of Global Management
 Sailing at the 2010 Summer Youth Olympics
-Sailing at the 2015 Southeast Asian Games
+Sailing at the 2015 SEA Games
 Sailing competitions in Singapore
 Sailing in Singapore
 Satellites of Singapore
@@ -2160,6 +2160,10 @@ Science museums in Singapore
 Scientific organisations based in Singapore
 Scottish expatriate sportspeople in Singapore
 Scouting and Guiding in Singapore
+SEA Games bronze medalists for Singapore
+SEA Games competitors for Singapore
+SEA Games gold medalists for Singapore
+SEA Games silver medalists for Singapore
 Seasons in Singaporean football
 Seasons in Singaporean football competitions
 Secondary schools in Singapore
@@ -2219,7 +2223,7 @@ Singapore at the Asian Winter Games
 Singapore at the Commonwealth Games
 Singapore at the Olympics
 Singapore at the Paralympics
-Singapore at the Southeast Asian Games
+Singapore at the SEA Games
 Singapore at the Summer Olympics
 Singapore at the Summer Olympics by year
 Singapore at the Summer Universiade
@@ -3136,10 +3140,6 @@ Solicitors-General of Singapore
 South Korean emigrants to Singapore
 South Korean expatriate sportspeople in Singapore
 South Korean expatriates in Singapore
-Southeast Asian Games bronze medalists for Singapore
-Southeast Asian Games competitors for Singapore
-Southeast Asian Games gold medalists for Singapore
-Southeast Asian Games silver medalists for Singapore
 Southern Islands
 Spanish expatriates in Singapore
 Speakers of the Parliament of Singapore
@@ -3165,7 +3165,7 @@ Sportspeople of Singaporean descent
 Spouses of Prime Ministers of Singapore
 Squadron badges of the Republic of Singapore Air Force
 Squadrons of the Republic of Singapore Air Force
-Squash at the 2015 Southeast Asian Games
+Squash at the 2015 SEA Games
 Squash in Singapore
 Squash tournaments in Singapore
 Sri Lankan emigrants to Singapore
@@ -3194,12 +3194,12 @@ Sustainability in Singapore
 Swedish expatriate sportspeople in Singapore
 Swedish people of Singaporean descent
 Swimming at the 2010 Summer Youth Olympics
-Swimming at the 2015 Southeast Asian Games
+Swimming at the 2015 SEA Games
 Swimming in Singapore
 Swiss people of Singaporean descent
 Synagogues in Singapore
 Table tennis at the 2010 Summer Youth Olympics
-Table tennis at the 2015 Southeast Asian Games
+Table tennis at the 2015 SEA Games
 Table tennis competitions in Singapore
 Table tennis in Singapore
 Taekwondo at the 2010 Summer Youth Olympics
@@ -3244,7 +3244,7 @@ Temasek Holdings people
 Temples in Singapore
 Tengah
 Tennis at the 2010 Summer Youth Olympics
-Tennis at the 2015 Southeast Asian Games
+Tennis at the 2015 SEA Games
 Tennis in Singapore
 Tennis tournaments in Singapore
 Tennis venues in Singapore
@@ -3339,7 +3339,7 @@ Warriors FC seasons
 Wars involving Singapore
 Water in Singapore
 Water parks in Singapore
-Water polo at the 2015 Southeast Asian Games
+Water polo at the 2015 SEA Games
 Water polo in Singapore
 Water polo people from Singapore
 Water polo teams in Singapore
