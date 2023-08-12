@@ -124,6 +124,7 @@
 1949 disestablishments in Singapore
 1949 establishments in Singapore
 1949 in Singapore
+1950 disestablishments in Singapore
 1950 establishments in Singapore
 1950 in Singapore
 1950s disestablishments in Singapore
@@ -455,6 +456,7 @@
 2003 in Singaporean football
 2003 in Singaporean sport
 2003 in Singaporean television
+2003 murders in Singapore
 2003 Singaporean television seasons
 2003 Singaporean television series debuts
 2003 Singaporean television series endings
@@ -792,7 +794,9 @@ Ambassadors of Cambodia to Singapore
 Ambassadors of China to Singapore
 Ambassadors of Colombia to Singapore
 Ambassadors of Djibouti to Singapore
+Ambassadors of East Timor to Singapore
 Ambassadors of Finland to Singapore
+Ambassadors of France to Singapore
 Ambassadors of Germany to Singapore
 Ambassadors of Indonesia to Singapore
 Ambassadors of Israel to Singapore
@@ -1290,6 +1294,7 @@ Executed Singaporean women
 Executive branch of the government of Singapore
 Expatriate football managers in Singapore
 Expatriate footballers in Singapore
+Expatriate men's footballers in Singapore
 Expatriate rugby union players in Singapore
 Expatriate sportspeople in Singapore
 Expatriates from Georgia (country) in Singapore
@@ -1364,6 +1369,7 @@ Football teams in Singapore
 Football venues in Singapore
 Footballers in Singapore
 Footballers in Singapore by club
+Foreign policy and strategy think tanks in Singapore
 Foreign relations of Singapore
 Foreign teams in Singapore football leagues
 Foreign trade of Singapore
@@ -1742,6 +1748,8 @@ Members of the Cabinet of Singapore
 Members of the Legislative Council of Singapore
 Members of the Parliament of Singapore
 Members of the Public Service Commission (Singapore)
+Men's footballers in Singapore
+Men's footballers in Singapore by club
 Men's footballers in Singapore by competition
 Men's magazines published in Singapore
 Men's national sports teams of Singapore
@@ -1808,6 +1816,7 @@ Multi-sport clubs in Singapore
 Multi-sport events in Singapore
 Multinational companies headquartered in Singapore
 Murder in Singapore
+Murder of taxi drivers in Singapore
 Murdered Singaporean children
 Murdered Singaporean police officers
 Murders in Singapore by century
@@ -1849,7 +1858,6 @@ Netball venues in Singapore
 Netherlands–Singapore relations
 Neurological disease deaths in Singapore
 Neuroscience research centers in Singapore
-New towns in Singapore
 New Zealand emigrants to Singapore
 New Zealand expatriate sportspeople in Singapore
 New Zealand expatriates in Singapore
@@ -1957,6 +1965,7 @@ Piers in Singapore
 Pioneer, Singapore
 Pizza chains of Singapore
 Places in Singapore
+Planned communities in Singapore
 Planning areas in Singapore
 Plastics companies of Singapore
 Plays set in Singapore
@@ -2202,6 +2211,7 @@ Shooting at the 2010 Summer Youth Olympics
 Shooting competitions in Singapore
 Shopping districts and streets in Singapore
 Shopping malls in Singapore
+Short stories set in Singapore
 Shrines in Singapore
 Si Ling Secondary School
 Si Ling Secondary School alumni
@@ -2265,6 +2275,7 @@ Singapore Literature Prize
 Singapore Literature Prize winners
 Singapore LRT stubs
 Singapore Management University
+Singapore modules
 Singapore MRT stubs
 Singapore National Football League
 Singapore national football team
@@ -2333,6 +2344,7 @@ Singaporean Anglicans
 Singaporean animated films
 Singaporean animated television series
 Singaporean animation
+Singaporean animation studios
 Singaporean anthology films
 Singaporean anti-communists
 Singaporean appellate courts
@@ -2540,6 +2552,7 @@ Singaporean exiles
 Singaporean expatriate actors
 Singaporean expatriate football managers
 Singaporean expatriate footballers
+Singaporean expatriate men's footballers
 Singaporean expatriate sportspeople in Australia
 Singaporean expatriate sportspeople in Indonesia
 Singaporean expatriate sportspeople in the United States
@@ -2562,6 +2575,8 @@ Singaporean expatriates in Taiwan
 Singaporean expatriates in Thailand
 Singaporean expatriates in the United Kingdom
 Singaporean expatriates in the United States
+Singaporean experimental musical groups
+Singaporean experimental rock groups
 Singaporean families of Chinese ancestry
 Singaporean fantasy
 Singaporean fantasy films
@@ -2684,6 +2699,7 @@ Singaporean ink painters
 Singaporean installation artists
 Singaporean intellectual property law
 Singaporean intelligence agencies
+Singaporean international relations scholars
 Singaporean international schools
 Singaporean international schools in China
 Singaporean international schools in Indonesia
@@ -2784,6 +2800,7 @@ Singaporean media stubs
 Singaporean medical doctors
 Singaporean medical television series
 Singaporean men's basketball players
+Singaporean men's footballers
 Singaporean men's magazines
 Singaporean Methodists
 Singaporean military doctors
@@ -2808,6 +2825,7 @@ Singaporean musical theatre actors
 Singaporean musical theatre actresses
 Singaporean musicals
 Singaporean musicians
+Singaporean musicians templates
 Singaporean Muslims
 Singaporean nationality law
 Singaporean netball players
