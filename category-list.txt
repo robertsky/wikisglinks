@@ -24,6 +24,8 @@
 1879 establishments in Singapore
 1883 establishments in Singapore
 1883 in Singapore
+1885 establishments in Singapore
+1885 in Singapore
 1887 establishments in Singapore
 1888 establishments in Singapore
 1888 in Singapore
@@ -305,6 +307,7 @@
 1988 in Singapore
 1988 in Singaporean sport
 1988 in Singaporean television
+1988 murders in Singapore
 1988 Singaporean television series debuts
 1988 Singaporean television series endings
 1989 disestablishments in Singapore
@@ -495,6 +498,7 @@
 2006 Singaporean television series endings
 2007 disestablishments in Singapore
 2007 establishments in Singapore
+2007 Hassanal Bolkiah Trophy
 2007 in Singapore
 2007 in Singaporean football
 2007 in Singaporean sport
@@ -1134,6 +1138,7 @@ Cosmetics companies of Singapore
 Counter-terrorism in Singapore
 Counterterrorism in Singapore
 Court of Appeal of Singapore cases
+Courthouses in Singapore
 Courts in Singapore
 COVID-19 pandemic in Singapore
 Creative Technology
@@ -1298,6 +1303,7 @@ Expatriate men's footballers in Singapore
 Expatriate rugby union players in Singapore
 Expatriate sportspeople in Singapore
 Expatriates from Georgia (country) in Singapore
+Expatriates in Singapore
 Explosions in Singapore
 Faculty of the Singapore Management University School of Law
 Family businesses of Singapore
@@ -1450,6 +1456,7 @@ Heliports in Singapore
 Heritage registers in Singapore
 High Commissioners of Australia to Singapore
 High Commissioners of Bangladesh to Singapore
+High Commissioners of Brunei to Singapore
 High Commissioners of Canada to Singapore
 High Commissioners of India to Singapore
 High Commissioners of Kenya to Singapore
@@ -1488,7 +1495,6 @@ Home United FC seasons
 Hong Kong emigrants to Singapore
 Hong Kong people of Singaporean descent
 Hong Kong–Singapore relations
-Honorary Citizens of Singapore
 Horse racing in Singapore
 Horse racing venues in Singapore
 Hospitality companies of Singapore
@@ -1510,6 +1516,7 @@ Hungarian expatriate sportspeople in Singapore
 Hwa Chong Institution
 Ice hockey in Singapore
 IHH Healthcare
+Immigrants to Singapore
 Immigration to Singapore
 Impiety (band) albums
 Important Bird Areas of Singapore
@@ -1614,6 +1621,7 @@ Kelvin Tan albums
 Kickboxing in Singapore
 Kidnapped Singaporean people
 Kidnapping in Singapore
+Kingdom of Singapura
 Korean emigrants to Singapore
 Korean-language singers of Singapore
 Kranji
@@ -1747,6 +1755,7 @@ Medical technology companies of Singapore
 Members of the Cabinet of Singapore
 Members of the Legislative Council of Singapore
 Members of the Parliament of Singapore
+Members of the Parliament of Singapore navigational boxes
 Members of the Public Service Commission (Singapore)
 Men's footballers in Singapore
 Men's footballers in Singapore by club
@@ -1846,6 +1855,7 @@ Nations at the 1993 SEA Games
 Nations at the 2009 Asian Youth Games
 Nations at the 2010 Summer Youth Olympics
 Nations at the 2015 SEA Games
+Natural disasters in Singapore
 Natural gas-fired power stations in Singapore
 Natural history of Singapore
 Naturalised citizens of Singapore
@@ -2358,6 +2368,7 @@ Singaporean artist groups and collectives
 Singaporean artists
 Singaporean atheists
 Singaporean athletes
+Singaporean aviators
 Singaporean awards
 Singaporean ballerinas
 Singaporean bankers
@@ -2408,6 +2419,7 @@ Singaporean choirs
 Singaporean choreographers
 Singaporean Christian clergy
 Singaporean Christians
+Singaporean cinematographers
 Singaporean civil rights case law
 Singaporean civil servants
 Singaporean classical harpists
@@ -2844,6 +2856,7 @@ Singaporean obstetricians
 Singaporean officials of the United Nations
 Singaporean oncologists
 Singaporean ophthalmologists
+Singaporean optometrists
 Singaporean orchestras
 Singaporean ornithologists
 Singaporean orthopedic surgeons
@@ -3051,6 +3064,8 @@ Singaporean television actresses
 Singaporean television awards
 Singaporean television co-productions
 Singaporean television films
+Singaporean television journalists
+Singaporean television news anchors
 Singaporean television news programmes
 Singaporean television news shows
 Singaporean television people
