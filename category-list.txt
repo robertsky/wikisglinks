@@ -233,6 +233,7 @@
 1976 establishments in Singapore
 1976 in Singapore
 1976 in Singaporean sport
+1976 murders in Singapore
 1977 disestablishments in Singapore
 1977 establishments in Singapore
 1977 in Singapore
@@ -302,6 +303,7 @@
 1987 establishments in Singapore
 1987 in Singapore
 1987 in Singaporean sport
+1987 murders in Singapore
 1988 disestablishments in Singapore
 1988 establishments in Singapore
 1988 in Singapore
@@ -499,10 +501,12 @@
 2007 disestablishments in Singapore
 2007 establishments in Singapore
 2007 Hassanal Bolkiah Trophy
+2007 Hassanal Bolkiah Trophy
 2007 in Singapore
 2007 in Singaporean football
 2007 in Singaporean sport
 2007 in Singaporean television
+2007 murders in Singapore
 2007 Singaporean television seasons
 2007 Singaporean television series debuts
 2007 Singaporean television series endings
@@ -525,6 +529,7 @@
 2009 in Singaporean football
 2009 in Singaporean sport
 2009 in Singaporean television
+2009 murders in Singapore
 2009 Singaporean television seasons
 2009 Singaporean television series debuts
 2009 Singaporean television series endings
@@ -701,6 +706,7 @@
 2021 in Singapore
 2021 in Singaporean football
 2021 in Singaporean television
+2021 murders in Singapore
 2021 Singaporean television seasons
 2022 disestablishments in Singapore 
 2022 events in Singapore by month
@@ -1139,6 +1145,7 @@ Counter-terrorism in Singapore
 Counterterrorism in Singapore
 Court of Appeal of Singapore cases
 Courthouses in Singapore
+Courthouses in Singapore
 Courts in Singapore
 COVID-19 pandemic in Singapore
 Creative Technology
@@ -1457,6 +1464,7 @@ Heritage registers in Singapore
 High Commissioners of Australia to Singapore
 High Commissioners of Bangladesh to Singapore
 High Commissioners of Brunei to Singapore
+High Commissioners of Brunei to Singapore
 High Commissioners of Canada to Singapore
 High Commissioners of India to Singapore
 High Commissioners of Kenya to Singapore
@@ -1621,6 +1629,7 @@ Kelvin Tan albums
 Kickboxing in Singapore
 Kidnapped Singaporean people
 Kidnapping in Singapore
+Kingdom of Singapura
 Kingdom of Singapura
 Korean emigrants to Singapore
 Korean-language singers of Singapore
@@ -2839,12 +2848,14 @@ Singaporean musicals
 Singaporean musicians
 Singaporean musicians templates
 Singaporean Muslims
+Singaporean National Service defaulters
 Singaporean nationality law
 Singaporean netball players
 Singaporean neurologists
 Singaporean neuroscientists
 Singaporean neurosurgeons
 Singaporean news websites
+Singaporean noise musical groups
 Singaporean Nominated Members of Parliament
 Singaporean non-binary people
 Singaporean Non-constituency Members of Parliament
@@ -2866,6 +2877,7 @@ Singaporean pathologists
 Singaporean Peking opera actresses
 Singaporean Pentecostals
 Singaporean people
+Singaporean people convicted of child abuse
 Singaporean people convicted of kidnapping
 Singaporean people convicted of manslaughter
 Singaporean people convicted of murder
@@ -3107,6 +3119,7 @@ Singaporean webcomics
 Singaporean websites
 Singaporean windsurfers
 Singaporean women
+Singaporean women academics
 Singaporean women activists
 Singaporean women ambassadors
 Singaporean women architects
@@ -3219,6 +3232,7 @@ Stroke-related deaths in Singapore
 Student protests in Singapore
 Student sport in Singapore
 Subdivisions of Singapore
+Submachine guns of Singapore
 Suicides in Singapore
 Summer Olympics competitors for Singapore
 Sungei Kadut
@@ -3358,6 +3372,7 @@ Victory-class corvettes
 Video game companies of Singapore
 Video games developed in Singapore
 Vietnamese emigrants to Singapore
+Violence against children in Singapore
 Violence against women in Singapore
 Violence in Singapore
 Violent deaths in Singapore
@@ -3418,6 +3433,7 @@ Wrestling at the 2010 Summer Youth Olympics
 Wrestling in Singapore
 WTA Singapore Open
 Wushu in Singapore
+Yacht clubs in Singapore
 Yale-NUS College
 Years in Singapore
 Years of the 20th century in Singapore
