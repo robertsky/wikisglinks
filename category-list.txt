@@ -224,6 +224,7 @@
 1973 establishments in Singapore
 1973 in Singapore
 1973 in Singaporean sport
+1973 murders in Singapore
 1974 crimes in Singapore
 1974 establishments in Singapore
 1974 in Singapore
@@ -241,6 +242,7 @@
 1978 disestablishments in Singapore
 1978 establishments in Singapore
 1978 in Singapore
+1978 murders in Singapore
 1979 crimes in Singapore
 1979 disestablishments in Singapore
 1979 establishments in Singapore
@@ -720,6 +722,7 @@
 2023 Tamil-language television seasons
 2024 establishments in Singapore
 2024 in Singapore
+2024 in Singaporean football
 2024 Tamil-language television seasons
 2025 in Singapore
 20th century in Singapore
@@ -783,6 +786,7 @@ Academia in Singapore
 Accidental deaths in Singapore
 Accidents and incidents involving Mass Rapid Transit (Singapore)
 Administrators in British Singapore
+Aerion Women's FC seasons
 Aerospace companies of Singapore
 Agriculture companies of Singapore
 Agriculture in Singapore
@@ -845,6 +849,7 @@ Ambassadors of Singapore to the United States
 Ambassadors of Singapore to Turkey
 Ambassadors of Singapore to Ukraine
 Ambassadors of Singapore to Yugoslavia
+Ambassadors of South Korea to Singapore
 Ambassadors of Sweden to Singapore
 Ambassadors of Thailand to Singapore
 Ambassadors of the Comoros to Singapore
@@ -905,6 +910,7 @@ Arts festivals in Singapore
 Arts in Singapore
 Arts organisations based in Singapore
 Arts schools in Singapore
+Asian Academy Creative Awards
 Asian art museums in Singapore
 Asian Civilisations Museum
 Asian Games competitors for Singapore
@@ -956,6 +962,7 @@ Beer in Singapore
 Belgian expatriate sportspeople in Singapore
 Belgian expatriates in Singapore
 Bilateral relations of Singapore
+Bilateral sports relations of Singapore
 Biographical museums in Singapore
 Biosphere reserves of Singapore
 Biota of Singapore
@@ -1154,6 +1161,7 @@ Crematoria in Singapore
 Cricket grounds in Singapore
 Crime in Singapore
 Crime in Singapore by type
+Crimes against police officers in Singapore
 Crimes in Singapore by century
 Croatian emigrants to Singapore
 Croatian expatriate sportspeople in Singapore
@@ -1175,6 +1183,7 @@ Deaf people from Singapore
 Deafblind people from Singapore
 Deans of Singapore
 Death in Singapore
+Deaths by beating in Singapore
 Deaths by person in Singapore
 Deaths by stabbing in Singapore
 Deaths from brain cancer in Singapore
@@ -1539,6 +1548,7 @@ India–Singapore relations
 Individual animals in Singapore
 Individual trees in Singapore
 Indonesian emigrants to Singapore
+Indonesian expatriates in Singapore
 Indonesian people of Singaporean descent
 Indonesia–Singapore border
 Indonesia–Singapore relations
@@ -1725,6 +1735,7 @@ Malaysian emigrants to Singapore
 Malaysia–Singapore border
 Malaysia–Singapore border crossings
 Malaysia–Singapore relations
+Malaysia–Singapore sports relations
 Malian emigrants to Singapore
 Mammals of Singapore
 Man-made disasters in Singapore
@@ -1930,6 +1941,7 @@ Organised crime groups in Singapore
 Organised crime in Singapore
 Original programming by Singaporean television network or channel
 Outdoor sculptures in Singapore
+Outdoor structures in Singapore
 Outram, Singapore
 Pakistani emigrants to Singapore
 Pakistani expatriates in Singapore
@@ -2509,6 +2521,7 @@ Singaporean constitutional law
 Singaporean consultants
 Singaporean COVID-19 vaccines
 Singaporean crime comedy films
+Singaporean crime drama films
 Singaporean crime films
 Singaporean crime television series
 Singaporean criminal law
@@ -2560,6 +2573,7 @@ Singaporean emigrants to the Netherlands
 Singaporean emigrants to the United Kingdom
 Singaporean emigrants to the United States
 Singaporean engineers
+Singaporean English-language television shows
 Singaporean entertainers
 Singaporean entertainment websites
 Singaporean environmentalists
@@ -2951,6 +2965,7 @@ Singaporean people of World War II
 Singaporean people of Yemeni descent
 Singaporean people of Zimbabwean descent
 Singaporean people stubs
+Singaporean people who died in prison custody
 Singaporean people with disabilities
 Singaporean performance artists
 Singaporean philanthropists
@@ -3002,6 +3017,7 @@ Singaporean record labels
 Singaporean record producers
 Singaporean records
 Singaporean religious leaders
+Singaporean restaurateurs
 Singaporean Rhodes Scholars
 Singaporean rhythmic gymnasts
 Singaporean rice dishes
@@ -3122,6 +3138,7 @@ Singaporean women ambassadors
 Singaporean women architects
 Singaporean women artists
 Singaporean women bloggers
+Singaporean women boxers
 Singaporean women chemists
 Singaporean women columnists
 Singaporean women comedians
@@ -3355,6 +3372,8 @@ University presses of Singapore
 Unmanned aerial vehicles of Singapore
 Unsolved murders in Singapore
 Urban planning in Singapore
+Uzbekistani expatriate sportspeople in Singapore
+Uzbekistani expatriates in Singapore
 Vasantham (TV channel)
 Vasantham TV original programming
 Vegetable dishes of Singapore
@@ -3402,7 +3421,6 @@ West Region, Singapore
 Western Islands Planning Area
 Western Water Catchment
 Wetlands of Singapore
-Wikipedia categories named after organisations based in Singapore
 WOHA
 Women government ministers of Singapore
 Women in Singapore
@@ -3423,6 +3441,7 @@ Works about prostitution in Singapore
 Works association football clubs in Singapore
 Works based on Singaporean novels
 Works set in Singapore
+World Games medalists for Singapore
 World War II prisoner of war camps in Singapore
 World War II sites in Singapore
 Wormrot albums
