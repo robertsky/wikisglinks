@@ -470,6 +470,7 @@
 2004 crimes in Singapore
 2004 disestablishments in Singapore
 2004 establishments in Singapore
+2004 events in Singapore by month
 2004 in Singapore
 2004 in Singaporean football
 2004 in Singaporean sport
@@ -480,6 +481,7 @@
 2004 Singaporean television series endings
 2005 disestablishments in Singapore
 2005 establishments in Singapore
+2005 events in Singapore by month
 2005 in Singapore
 2005 in Singaporean football
 2005 in Singaporean sport
@@ -569,6 +571,7 @@
 2011 in Singaporean sport
 2011 in Singaporean television
 2011 in Singaporean women's sport
+2011 murders in Singapore
 2011 Singaporean general election
 2011 Singaporean television seasons
 2011 Singaporean television series debuts
@@ -583,6 +586,7 @@
 2012 in Singaporean motorsport
 2012 in Singaporean sport
 2012 in Singaporean television
+2012 murders in Singapore
 2012 Singaporean television seasons
 2012 Singaporean television series debuts
 2012 Singaporean television series endings
@@ -619,6 +623,7 @@
 2015 ASEAN Para Games
 2015 disestablishments in Singapore
 2015 establishments in Singapore
+2015 events in Singapore by month
 2015 in Singapore
 2015 in Singaporean football
 2015 in Singaporean motorsport
@@ -636,6 +641,7 @@
 2015–16 in Singaporean basketball
 2016 disestablishments in Singapore
 2016 establishments in Singapore
+2016 events in Singapore by month
 2016 in Singapore
 2016 in Singaporean football
 2016 in Singaporean motorsport
@@ -649,6 +655,7 @@
 2016–17 in Singaporean basketball
 2017 disestablishments in Singapore
 2017 establishments in Singapore
+2017 events in Singapore by month
 2017 in Singapore
 2017 in Singaporean football
 2017 in Singaporean sport
@@ -661,6 +668,7 @@
 2017–18 in Singaporean basketball
 2018 disestablishments in Singapore
 2018 establishments in Singapore
+2018 events in Singapore by month
 2018 Hassanal Bolkiah Trophy
 2018 in Singapore
 2018 in Singaporean football
@@ -673,6 +681,7 @@
 2018–19 in Singaporean basketball
 2019 disestablishments in Singapore
 2019 establishments in Singapore
+2019 events in Singapore by month
 2019 in Singapore
 2019 in Singaporean football
 2019 in Singaporean sport
@@ -684,6 +693,7 @@
 2020 crimes in Singapore
 2020 disestablishments in Singapore
 2020 establishments in Singapore
+2020 events in Singapore by month
 2020 in Singapore
 2020 in Singaporean football
 2020 in Singaporean sport
@@ -714,6 +724,7 @@
 2022 in Singapore
 2022 in Singaporean football
 2022 in Singaporean motorsport
+2022 murders in Singapore
 2023 disestablishments in Singapore
 2023 establishments in Singapore
 2023 events in Singapore by month
@@ -721,6 +732,7 @@
 2023 in Singaporean football
 2023 Tamil-language television seasons
 2024 establishments in Singapore
+2024 events in Singapore by month
 2024 in Singapore
 2024 in Singaporean football
 2024 Tamil-language television seasons
@@ -730,6 +742,7 @@
 20th-century churches in Singapore
 20th-century disasters in Singapore
 20th-century executions by Singapore
+20th-century mass murder in Singapore
 20th-century murders in Singapore
 20th-century Roman Catholic church buildings in Singapore
 20th-century Singaporean actresses
@@ -786,6 +799,7 @@ Academia in Singapore
 Accidental deaths in Singapore
 Accidents and incidents involving Mass Rapid Transit (Singapore)
 Administrators in British Singapore
+Adroit Club players
 Aerion Women's FC seasons
 Aerospace companies of Singapore
 Agriculture companies of Singapore
@@ -954,6 +968,7 @@ Basketball at the 2010 Summer Youth Olympics
 Basketball at the 2015 SEA Games
 Basketball competitions in Singapore
 Basketball in Singapore
+Basketball players in Singapore by club
 Basketball teams in Singapore
 Basketball venues in Singapore
 Beauty pageants in Singapore
@@ -1141,6 +1156,7 @@ Conscription in Singapore
 Conservatism in Singapore
 Conservative parties in Singapore
 Consumer organisations in Singapore
+Contemporary art galleries in Singapore
 Contemporary Christian music albums by Singaporean artists
 Convenience stores of Singapore
 Convention centres in Singapore
@@ -1188,8 +1204,13 @@ Deaths by person in Singapore
 Deaths by stabbing in Singapore
 Deaths from brain cancer in Singapore
 Deaths from cancer in Singapore
+Deaths from colorectal cancer in Singapore
 Deaths from lung cancer in Singapore
+Deaths from lymphoma in Singapore
+Deaths from pancreatic cancer in Singapore
 Deaths from pneumonia in Singapore
+Deaths from prostate cancer in Singapore
+Deaths from stomach cancer in Singapore
 Deaths from the COVID-19 pandemic in Singapore
 Deaths in Singapore
 Defence companies of Singapore
@@ -1244,6 +1265,7 @@ Domain names of Singapore
 Dover, Singapore
 Downtown Core (Singapore)
 Drama schools in Singapore
+Drink companies of Singapore
 Drug policy of Singapore
 Drugs in Singapore
 Dunman High School
@@ -1283,6 +1305,7 @@ English expatriates in Singapore
 English language in Singapore
 English people of Singaporean descent
 English-language Singaporean films
+English-language television stations in Singapore
 Entertainment companies of Singapore
 Entertainment events in Singapore
 Entertainment in Singapore
@@ -1568,6 +1591,7 @@ International association football competitions hosted by Singapore
 International athletics competitions hosted by Singapore
 International Baccalaureate schools in Singapore
 International basketball competitions hosted by Singapore
+International bridges in Singapore
 International conferences in Singapore
 International cricket competitions in Singapore
 International cycle races hosted by Singapore
@@ -1752,6 +1776,7 @@ Marriage, unions and partnerships in Singapore
 Mass media companies of Singapore
 Mass media in Singapore
 Mass media in Singapore stubs
+Mass murder in Singapore
 Mass Rapid Transit (Singapore)
 Mass Rapid Transit (Singapore) depots
 Mass Rapid Transit (Singapore) lines
@@ -1790,6 +1815,7 @@ Methodist schools in Singapore
 Metre gauge railways in Singapore
 Mexico–Singapore relations
 Mi Lu Bing albums
+Michelin Guide Bib Gourmand restaurants in Singapore
 Michelin Guide starred restaurants in Singapore
 Military and war museums in Singapore
 Military association football clubs in Singapore
@@ -1917,6 +1943,7 @@ Olympic divers of Singapore
 Olympic equestrians of Singapore
 Olympic Games in Singapore
 Olympic gold medalists for Singapore
+Olympic golfers for Singapore
 Olympic sailors of Singapore
 Olympic silver medalists for Singapore
 Olympic swimmers of Singapore
@@ -2407,6 +2434,7 @@ Singaporean botanists
 Singaporean boxers
 Singaporean boy bands
 Singaporean brands
+Singaporean breaststroke swimmers
 Singaporean broadcast news analysts
 Singaporean Buddhist monks
 Singaporean Buddhist nuns
@@ -2510,6 +2538,8 @@ Singaporean companies established in 2014
 Singaporean companies established in 2015
 Singaporean companies established in 2016
 Singaporean companies established in 2017
+Singaporean companies established in 2018
+Singaporean companies established in 2019
 Singaporean companies established in 2021
 Singaporean composers
 Singaporean computer programmers
@@ -2588,6 +2618,7 @@ Singaporean expatriate men's footballers
 Singaporean expatriate sportspeople in Australia
 Singaporean expatriate sportspeople in Indonesia
 Singaporean expatriate sportspeople in the United States
+Singaporean expatriate swimmers in the United States
 Singaporean expatriates in Australia
 Singaporean expatriates in Brunei
 Singaporean expatriates in Cameroon
@@ -2672,6 +2703,7 @@ Singaporean film posters
 Singaporean film producers
 Singaporean film score composers
 Singaporean film studios
+Singaporean film video covers
 Singaporean films
 Singaporean films about Alzheimer's disease
 Singaporean films by topic
@@ -2799,6 +2831,7 @@ Singaporean male karateka
 Singaporean male long-distance runners
 Singaporean male marathon runners
 Singaporean male medley swimmers
+Singaporean male middle-distance runners
 Singaporean male mixed martial artists
 Singaporean male models
 Singaporean male musical theatre actors
@@ -2892,6 +2925,7 @@ Singaporean people convicted of child abuse
 Singaporean people convicted of kidnapping
 Singaporean people convicted of manslaughter
 Singaporean people convicted of murder
+Singaporean people executed abroad
 Singaporean people murdered abroad
 Singaporean people of Arab descent
 Singaporean people of Armenian descent
@@ -2961,6 +2995,7 @@ Singaporean people of Thai descent
 Singaporean people of Tunisian descent
 Singaporean people of Ugandan descent
 Singaporean people of Welsh descent
+Singaporean people of West Asian descent
 Singaporean people of World War II
 Singaporean people of Yemeni descent
 Singaporean people of Zimbabwean descent
@@ -3139,6 +3174,7 @@ Singaporean women architects
 Singaporean women artists
 Singaporean women bloggers
 Singaporean women boxers
+Singaporean women businesspeople
 Singaporean women chemists
 Singaporean women columnists
 Singaporean women comedians
@@ -3222,6 +3258,7 @@ Sports teams in Singapore
 Sports television in Singapore
 Sports venues in Singapore
 Sportspeople from Singapore
+Sportspeople in Singapore by club or team
 Sportspeople of Singaporean descent
 Spouses of Prime Ministers of Singapore
 Squadron badges of the Republic of Singapore Air Force
@@ -3242,6 +3279,7 @@ Stefanie Sun albums
 Stock exchanges in Singapore
 Straits of Singapore
 Straits View
+Street food in Singapore
 Stroke-related deaths in Singapore
 Student protests in Singapore
 Student sport in Singapore
@@ -3251,6 +3289,7 @@ Suicides in Singapore
 Summer Olympics competitors for Singapore
 Sungei Kadut
 Supermarkets of Singapore
+Supermodel Me seasons
 Suspension bridges in Singapore
 Sustainability in Singapore
 Swedish expatriate sportspeople in Singapore
@@ -3390,6 +3429,7 @@ Video game companies of Singapore
 Video games developed in Singapore
 Vietnamese emigrants to Singapore
 Violence against children in Singapore
+Violence against men in Singapore
 Violence against women in Singapore
 Violence in Singapore
 Violent deaths in Singapore
