@@ -106,6 +106,7 @@
 1940s establishments in Singapore
 1940s in Singapore
 1940s in Singaporean sport
+1941 disestablishments in Singapore
 1941 establishments in Singapore
 1941 in Singapore
 1942 disestablishments in Singapore
@@ -541,6 +542,7 @@
 2009 in Singaporean football
 2009 in Singaporean sport
 2009 in Singaporean television
+2009 Men's Hockey Junior World Cup
 2009 murders in Singapore
 2009 Singaporean television seasons
 2009 Singaporean television series debuts
@@ -832,6 +834,7 @@ Aljunied
 Ambassadors of Afghanistan to Singapore
 Ambassadors of Albania to Singapore
 Ambassadors of Algeria to Singapore
+Ambassadors of Austria to Singapore
 Ambassadors of Bhutan to Singapore
 Ambassadors of Cambodia to Singapore
 Ambassadors of China to Singapore
@@ -845,7 +848,9 @@ Ambassadors of Indonesia to Singapore
 Ambassadors of Israel to Singapore
 Ambassadors of Japan to Singapore
 Ambassadors of Jordan to Singapore
+Ambassadors of Kyrgyzstan to Singapore
 Ambassadors of Liberia to Singapore
+Ambassadors of Mexico to Singapore
 Ambassadors of Morocco to Singapore
 Ambassadors of Mozambique to Singapore
 Ambassadors of Myanmar to Singapore
@@ -885,6 +890,7 @@ Ambassadors of Thailand to Singapore
 Ambassadors of the Comoros to Singapore
 Ambassadors of the European Union to Singapore
 Ambassadors of the Federated States of Micronesia to Singapore
+Ambassadors of the Maldives to Singapore
 Ambassadors of the Soviet Union to Singapore
 Ambassadors of the United States to Singapore
 Ambassadors of Turkey to Singapore
@@ -949,6 +955,7 @@ Athletics (track and field) venues in Singapore
 Athletics at the 2010 Summer Youth Olympics
 Athletics at the 2015 SEA Games
 Attacks in Singapore
+Attacks on buildings and structures in Singapore
 Attorneys-General of Singapore
 Audio equipment manufacturers of Singapore
 Australian emigrants to Singapore
@@ -1202,6 +1209,7 @@ Croatian expatriates in Singapore
 Crowdfunding platforms of Singapore
 Cue sports in Singapore
 Cultural organisations based in Singapore
+Culture ministers of Singapore
 Currencies of Singapore
 Cycle racing in Singapore
 Cycling at the 2010 Summer Youth Olympics
@@ -1437,6 +1445,7 @@ Foreign teams in Singapore football leagues
 Foreign trade of Singapore
 Formation of Malaysia
 Formations of the Singapore Army
+Former reservoirs in Singapore
 Former secondary schools in Singapore
 Formidable-class frigates
 Forts in Singapore
@@ -1515,10 +1524,13 @@ High Commissioners of Bangladesh to Singapore
 High Commissioners of Brunei to Singapore
 High Commissioners of Canada to Singapore
 High Commissioners of India to Singapore
+High commissioners of Jamaica to Singapore
 High Commissioners of Kenya to Singapore
 High Commissioners of Malaysia to Singapore
 High Commissioners of New Zealand to Singapore
+High commissioners of Rwanda to Singapore
 High Commissioners of Singapore to Australia
+High commissioners of Singapore to Bangladesh
 High Commissioners of Singapore to Canada
 High Commissioners of Singapore to Fiji
 High Commissioners of Singapore to India
@@ -1526,6 +1538,7 @@ High Commissioners of Singapore to Malaysia
 High Commissioners of Singapore to Pakistan
 High Commissioners of Singapore to Papua New Guinea
 High Commissioners of Singapore to Sri Lanka
+High commissioners of South Africa to Singapore
 High Commissioners of Sri Lanka to Singapore
 High Commissioners of the United Kingdom to Singapore
 High Court of Singapore case law
@@ -1659,6 +1672,7 @@ JJ Lin albums
 JJ Lin songs
 JJ Lin video albums
 Jocie Kok albums
+Journalists imprisoned in Singapore
 Judges of the Supreme Court of Singapore
 Judicial Commissioners of Singapore
 Judicial Committee of the Privy Council cases on appeal from Singapore
@@ -1680,6 +1694,7 @@ Kickboxing in Singapore
 Kidnapped Singaporean people
 Kidnapping in Singapore
 Kingdom of Singapura
+Knife attacks in Singapore
 Korean emigrants to Singapore
 Korean-language singers of Singapore
 Kranji
@@ -1710,19 +1725,14 @@ Legal organisations based in Singapore
 Legal procedure of Singapore
 Legislative branch of the Singapore Government
 LGBT culture in Singapore
-LGBT culture in Singapore
-LGBT events in Singapore
 LGBT events in Singapore
 LGBT history in Singapore
-LGBT in Singapore
 LGBT in Singapore
 LGBT organisations based in Singapore
 LGBT organisations in Singapore
 LGBT people from Singapore
 LGBT political advocacy groups in Singapore
-LGBT political advocacy groups in Singapore
 LGBT rights activists from Singapore
-LGBT rights in Singapore
 LGBT rights in Singapore
 LGBT sportspeople from Singapore
 LGBT writers from Singapore
@@ -1866,6 +1876,7 @@ Ministers for Law of Singapore
 Ministers for Manpower of Singapore
 Ministers for Trade and Industry of Singapore
 Ministers for Transport of Singapore
+Mister International (Philippines)
 Mixed martial arts in Singapore
 Mobile payments in Singapore
 Mobile phone companies of Singapore
@@ -1935,6 +1946,7 @@ Netball venues in Singapore
 Netherlands–Singapore relations
 Neurological disease deaths in Singapore
 Neuroscience research centers in Singapore
+New Classical architecture in Singapore
 New Zealand emigrants to Singapore
 New Zealand expatriate sportspeople in Singapore
 New Zealand expatriates in Singapore
@@ -2372,6 +2384,7 @@ Singapore People's Party politicians
 Singapore Police Force
 Singapore political party symbols
 Singapore politics-related lists
+Singapore Polytechnic
 Singapore Premier League
 Singapore Premier League clubs
 Singapore Premier League head coaches
@@ -2837,7 +2850,6 @@ Singaporean LGBT politicians
 Singaporean LGBT singers
 Singaporean LGBT songwriters
 Singaporean LGBT-related films
-Singaporean LGBT-related films
 Singaporean librarians
 Singaporean literature
 Singaporean logos
@@ -2893,12 +2905,14 @@ Singaporean male épée fencers
 Singaporean Mandopop singers
 Singaporean marching bands
 Singaporean martial artists
+Singaporean mascots
 Singaporean mass media people
 Singaporean mathematicians
 Singaporean media personalities
 Singaporean media stubs
 Singaporean medical doctors
 Singaporean medical television series
+Singaporean men centenarians
 Singaporean men's basketball players
 Singaporean men's footballers
 Singaporean men's magazines
@@ -2921,8 +2935,10 @@ Singaporean music websites
 Singaporean musical comedy films
 Singaporean musical films
 Singaporean musical groups
+Singaporean musical quartets
 Singaporean musical theatre actors
 Singaporean musical theatre actresses
+Singaporean musical trios
 Singaporean musicals
 Singaporean musicians
 Singaporean musicians templates
@@ -2934,6 +2950,7 @@ Singaporean neurologists
 Singaporean neuroscientists
 Singaporean neurosurgeons
 Singaporean news websites
+Singaporean newspaper editors
 Singaporean noise musical groups
 Singaporean Nominated Members of Parliament
 Singaporean non-binary people
@@ -3172,6 +3189,8 @@ Singaporean television seasons by century
 Singaporean television seasons by decade
 Singaporean television seasons by year
 Singaporean television series
+Singaporean television series based on non-Singaporean television series
+Singaporean television series based on South Korean television series
 Singaporean television series by century
 Singaporean television series by decade
 Singaporean television series by genre
@@ -3214,6 +3233,7 @@ Singaporean women artists
 Singaporean women bloggers
 Singaporean women boxers
 Singaporean women businesspeople
+Singaporean women centenarians
 Singaporean women chemists
 Singaporean women columnists
 Singaporean women comedians
@@ -3242,6 +3262,7 @@ Singaporean women writers
 Singaporean women's footballers
 Singaporean women's rights activists
 Singaporean writers
+Singaporean wushu practitioners
 Singaporean wuxia television series
 Singaporean YouTubers
 Singaporean épée fencers
@@ -3310,6 +3331,7 @@ Sri Lankan emigrants to Singapore
 Sri Lankan expatriates in Singapore
 Sri Lankan people of Singaporean descent
 ST Aero aircraft
+Stabbing attacks in Singapore
 Standard gauge railways in Singapore
 Standards organisations in Singapore
 Star Awards
@@ -3325,6 +3347,7 @@ Student protests in Singapore
 Student sport in Singapore
 Subdivisions of Singapore
 Submachine guns of Singapore
+Suicides by jumping in Singapore
 Suicides in Singapore
 Summer Olympics competitors for Singapore
 Sungei Kadut
@@ -3505,7 +3528,11 @@ WOHA
 Women government ministers of Singapore
 Women in Singapore
 Women's field hockey in Singapore
+Women's football competitions in Singapore
 Women's football in Singapore
+Women's football leagues in Singapore
+Women's National League (Singapore)
+Women's National League (Singapore) seasons
 Women's national sports teams of Singapore
 Women's organisations based in Singapore
 Women's rights in Singapore
