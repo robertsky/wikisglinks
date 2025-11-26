@@ -59,6 +59,7 @@
 1911 in Singapore
 1912 establishments in Singapore
 1912 in Singapore
+1914 establishments in Singapore
 1915 disestablishments in Singapore
 1915 in Singapore
 1919 establishments in Singapore
@@ -232,6 +233,7 @@
 1974 in Singaporean sport
 1975 establishments in Singapore
 1975 in Singapore
+1976 disestablishments in Singapore
 1976 establishments in Singapore
 1976 in Singapore
 1976 in Singaporean sport
@@ -758,6 +760,7 @@
 2025 in Singapore
 2025 in Singaporean football
 2025 Singaporean general election
+2025 World Para Swimming Championships
 2026 in Singapore
 20th century in Singapore
 20th century in Singaporean television
@@ -786,6 +789,7 @@
 20th-century Singaporean television series debuts
 20th-century Singaporean television series endings
 20th-century Singaporean women
+20th-century Singaporean women businesspeople
 20th-century Singaporean women musicians
 20th-century Singaporean women singers
 20th-century Singaporean women writers
@@ -813,6 +817,7 @@
 21st-century Singaporean television series debuts
 21st-century Singaporean television series endings
 21st-century Singaporean women
+21st-century Singaporean women businesspeople
 21st-century Singaporean women musicians
 21st-century Singaporean women scientists
 21st-century Singaporean women singers
@@ -820,6 +825,7 @@
 21st-century Singaporean writers
 Academia in Singapore
 Accidental deaths in Singapore
+Accidents and incidents by airline of Singapore
 Accidents and incidents involving Mass Rapid Transit (Singapore)
 Administrators in British Singapore
 Adroit Club players
@@ -970,7 +976,12 @@ Arts schools in Singapore
 Asian Academy Creative Awards
 Asian art museums in Singapore
 Asian Civilisations Museum
+Asian Games badminton players for Singapore
 Asian Games competitors for Singapore
+Asian Games footballers for Singapore
+Asian Games sailors for Singapore
+Asian Games shooters for Singapore
+Asian Games swimmers for Singapore
 Assault rifles of Singapore
 Athletics (track and field) venues in Singapore
 Athletics at the 2010 Summer Youth Olympics
@@ -1248,6 +1259,7 @@ Deafblind people from Singapore
 Deans of Singapore
 Death in Singapore
 Deaths by beating in Singapore
+Deaths by drowning in Singapore
 Deaths by person in Singapore
 Deaths by stabbing in Singapore
 Deaths from brain cancer in Singapore
@@ -1402,6 +1414,7 @@ Fann Wong albums
 Fashion events in Singapore
 Fast-food chains of Singapore
 Fauna of Singapore
+Female murder victims in Singapore
 Feminism in Singapore
 Fencing at the 2010 Summer Youth Olympics
 Fencing at the 2015 SEA Games
@@ -1688,6 +1701,8 @@ Islands of Singapore
 Israeli expatriates in Singapore
 Israel–Singapore relations
 Italian expatriates in Singapore
+Italy–Singapore relations
+Italy–Singapore sports relations
 ITE College Central alumni
 ITE College West alumni
 Japanese diaspora in Singapore
@@ -1788,6 +1803,7 @@ Lists of ambassadors of Singapore
 Lists of biota of Singapore
 Lists of buildings and structures in Singapore
 Lists of companies of Singapore
+Lists of concerts and performances of Singaporean artists
 Lists of events in Singapore
 Lists of government ministers of Singapore
 Lists of landforms of Singapore
@@ -1951,6 +1967,7 @@ Music schools in Singapore
 Music venues in Singapore
 Musical instrument manufacturing companies of Singapore
 Musicals set in Singapore
+Muslim affairs Minister-in-charge of Singapore
 Nanyang Academy of Fine Arts
 Nanyang Junior College
 Nanyang Technological University
@@ -2036,6 +2053,7 @@ Organisations based in Singapore by subject
 Organisations of the Singapore Government
 Organised crime groups in Singapore
 Organised crime in Singapore
+Organized events in Singapore
 Original programming by Singaporean television network or channel
 Outdoor sculptures in Singapore
 Outdoor structures in Singapore
@@ -2422,6 +2440,7 @@ Singapore political party symbols
 Singapore politics-related lists
 Singapore Polytechnic
 Singapore Premier League
+Singapore Premier League 2
 Singapore Premier League clubs
 Singapore Premier League head coaches
 Singapore Premier League players
@@ -2459,6 +2478,7 @@ Singapore-Malaysia television co-productions
 Singapore-related lists
 Singaporean academic administrators
 Singaporean academics
+Singaporean accountants
 Singaporean action films
 Singaporean activists
 Singaporean actors
@@ -2563,9 +2583,12 @@ Singaporean comedy-drama films
 Singaporean comics artists
 Singaporean comics titles
 Singaporean communists
+Singaporean companies disestablished in 1979
 Singaporean companies disestablished in 2021
+Singaporean companies disestablished in 2025
 Singaporean companies established in 1961
 Singaporean companies established in 1963
+Singaporean companies established in 1965
 Singaporean companies established in 1967
 Singaporean companies established in 1968
 Singaporean companies established in 1969
@@ -2694,12 +2717,15 @@ Singaporean expatriate football managers
 Singaporean expatriate footballers
 Singaporean expatriate men's footballers
 Singaporean expatriate sportspeople in Australia
+Singaporean expatriate sportspeople in Finland
 Singaporean expatriate sportspeople in Indonesia
+Singaporean expatriate sportspeople in Sweden
 Singaporean expatriate sportspeople in the United States
 Singaporean expatriate swimmers in the United States
 Singaporean expatriates in Australia
 Singaporean expatriates in Brunei
 Singaporean expatriates in Cameroon
+Singaporean expatriates in Finland
 Singaporean expatriates in France
 Singaporean expatriates in Germany
 Singaporean expatriates in Hong Kong
@@ -2711,6 +2737,7 @@ Singaporean expatriates in New Zealand
 Singaporean expatriates in Norway
 Singaporean expatriates in South Africa
 Singaporean expatriates in South Korea
+Singaporean expatriates in Sweden
 Singaporean expatriates in Switzerland
 Singaporean expatriates in Taiwan
 Singaporean expatriates in Thailand
@@ -3117,6 +3144,7 @@ Singaporean police officers killed in the line of duty
 Singaporean political scientists
 Singaporean political websites
 Singaporean politicians
+Singaporean politicians of Arab descent
 Singaporean politicians of Chinese descent
 Singaporean politicians of Hakka descent
 Singaporean politicians of Indian descent
@@ -3196,6 +3224,7 @@ Singaporean sport by decade
 Singaporean sport stubs
 Singaporean sport websites
 Singaporean sports coaches
+Singaporean sports television series
 Singaporean sportsmen
 Singaporean sportspeople by country of descent
 Singaporean sportspeople of Chinese descent
@@ -3259,6 +3288,7 @@ Singaporean trade unionists
 Singaporean transgender people
 Singaporean travel websites
 Singaporean venture capitalist
+Singaporean video jockeys
 Singaporean virologists
 Singaporean voice actresses
 Singaporean voluntary welfare organisations
@@ -3277,6 +3307,7 @@ Singaporean women boxers
 Singaporean women businesspeople
 Singaporean women centenarians
 Singaporean women chemists
+Singaporean women classical violinists
 Singaporean women columnists
 Singaporean women comedians
 Singaporean women computer scientists
@@ -3290,6 +3321,7 @@ Singaporean women historians
 Singaporean women illustrators
 Singaporean women in business
 Singaporean women in politics
+Singaporean women jazz singers
 Singaporean women journalists
 Singaporean women judges
 Singaporean women lawyers
@@ -3300,7 +3332,9 @@ Singaporean women radio presenters
 Singaporean women scientists
 Singaporean women short story writers
 Singaporean women television presenters
+Singaporean women violinists
 Singaporean women writers
+Singaporean women's expatriate footballers
 Singaporean women's footballers
 Singaporean women's rights activists
 Singaporean writers
@@ -3330,6 +3364,7 @@ Skyscrapers in Singapore
 Slovak expatriate sportspeople in Singapore
 SMRT Corporation
 Snakes of Singapore
+Social and family development ministers of Singapore
 Socialism in Singapore
 Socialist parties in Singapore
 Society of Singapore
@@ -3375,6 +3410,7 @@ Sri Lankan emigrants to Singapore
 Sri Lankan expatriates in Singapore
 Sri Lankan people of Singaporean descent
 ST Aero aircraft
+ST Engineering vehicles
 Stabbing attacks in Singapore
 Standard gauge railways in Singapore
 Standards organisations in Singapore
@@ -3399,13 +3435,16 @@ Supermarkets of Singapore
 Supermodel Me seasons
 Suspension bridges in Singapore
 Sustainability in Singapore
+Swan & Maclaren Group
 Swedish expatriate sportspeople in Singapore
 Swedish people of Singaporean descent
 Swimming at the 2010 Summer Youth Olympics
 Swimming at the 2015 SEA Games
+Swimming competitions in Singapore
 Swimming in Singapore
 Swiss people of Singaporean descent
 Synagogues in Singapore
+Syrian expatriates in Singapore
 Table tennis at the 2010 Summer Youth Olympics
 Table tennis at the 2015 SEA Games
 Table tennis competitions in Singapore
@@ -3574,6 +3613,7 @@ WOHA
 Women government ministers of Singapore
 Women in Singapore
 Women's field hockey in Singapore
+Women's football clubs in Singapore
 Women's football competitions in Singapore
 Women's football in Singapore
 Women's football leagues in Singapore
