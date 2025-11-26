@@ -784,6 +784,8 @@
 20th-century Singaporean physicians
 20th-century Singaporean politicians
 20th-century Singaporean singers
+20th-century Singaporean sportsmen
+20th-century Singaporean sportswomen
 20th-century Singaporean television seasons
 20th-century Singaporean television series
 20th-century Singaporean television series debuts
@@ -812,6 +814,8 @@
 21st-century Singaporean politicians
 21st-century Singaporean scientists
 21st-century Singaporean singers
+21st-century Singaporean sportsmen
+21st-century Singaporean sportswomen
 21st-century Singaporean television seasons
 21st-century Singaporean television series
 21st-century Singaporean television series debuts
@@ -1394,7 +1398,6 @@ European restaurants in Singapore
 Evangelical megachurches in Singapore
 Event management companies of Singapore
 Event venues in Singapore
-Events in Singapore
 Executed Singaporean people
 Executed Singaporean women
 Executive branch of the government of Singapore
@@ -2053,6 +2056,7 @@ Organisations based in Singapore by subject
 Organisations of the Singapore Government
 Organised crime groups in Singapore
 Organised crime in Singapore
+Organised events in Singapore
 Organized events in Singapore
 Original programming by Singaporean television network or channel
 Outdoor sculptures in Singapore
@@ -2981,7 +2985,15 @@ Singaporean media personalities
 Singaporean media stubs
 Singaporean medical doctors
 Singaporean medical television series
+Singaporean men athletes
 Singaporean men centenarians
+Singaporean men high jumpers
+Singaporean men hurdlers
+Singaporean men long-distance runners
+Singaporean men marathon runners
+Singaporean men middle-distance runners
+Singaporean men sprinters
+Singaporean men triple jumpers
 Singaporean men's basketball players
 Singaporean men's footballers
 Singaporean men's magazines
@@ -3302,6 +3314,7 @@ Singaporean women activists
 Singaporean women ambassadors
 Singaporean women architects
 Singaporean women artists
+Singaporean women athletes
 Singaporean women bloggers
 Singaporean women boxers
 Singaporean women businesspeople
@@ -3318,6 +3331,7 @@ Singaporean women engineers
 Singaporean women environmentalists
 Singaporean women film directors
 Singaporean women historians
+Singaporean women hurdlers
 Singaporean women illustrators
 Singaporean women in business
 Singaporean women in politics
@@ -3325,12 +3339,17 @@ Singaporean women jazz singers
 Singaporean women journalists
 Singaporean women judges
 Singaporean women lawyers
+Singaporean women long-distance runners
+Singaporean women marathon runners
+Singaporean women middle-distance runners
 Singaporean women novelists
 Singaporean women painters
 Singaporean women poets
+Singaporean women pole vaulters
 Singaporean women radio presenters
 Singaporean women scientists
 Singaporean women short story writers
+Singaporean women sprinters
 Singaporean women television presenters
 Singaporean women violinists
 Singaporean women writers
