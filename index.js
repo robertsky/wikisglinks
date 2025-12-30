@@ -73,7 +73,7 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     outputArray = _.sortBy(_.uniq(outputArray), [function(o) {return o;}]);
     console.log('Writing to file...');
     writeFile.write("{{short description|none}}\n");
-    writeFile.write("{{use Singapore English|date=August 2019}}\n");
+    writeFile.write("{{use British English|date=August 2019}}\n");
     writeFile.write("{{use dmy dates|date=August 2019}}\n");
     writeFile.write("This is a '''list of [[Singapore]]-related articles by alphabetical order'''. To learn quickly what Singapore is, see [[Outline of Singapore]]. Those interested in the subject can monitor changes to the pages by clicking on ''Related changes'' in the sidebar. A list of [[to do]] topics can be found [[Wikipedia:WikiProject Singapore/Article improvement|here]].\n");
     writeFile.write('{{alphanumeric TOC|numbers=yes|align=center}}\n\n');
