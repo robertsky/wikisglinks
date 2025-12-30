@@ -98,8 +98,6 @@ fs.readFileAsync('category-list.txt', 'utf8').then(function(content) {
     writeFile.write("{{portal bar|Singapore|Cities|Islands|Asia}}\n");
     writeFile.write("{{Index footer}}\n\n");
     writeFile.write("{{DEFAULTSORT:Index Of Singapore-related Articles}}\n");
-    writeFile.write("[[Category:Singapore-related lists| ]]\n");
-    writeFile.write("[[Category:Indexes of topics by country|Singapore]]");
     console.log('Write complete...');
     console.log('Ready for verification and upload.');
 }).catch((error) => logger.error(error));
