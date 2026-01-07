@@ -1992,6 +1992,7 @@ Museum Planning Area
 Museums in Singapore
 Music events in Singapore
 Music festivals in Singapore
+Music of Singapore
 Music organisations based in Singapore
 Music schools in Singapore
 Music venues in Singapore
@@ -3043,7 +3044,6 @@ Singaporean muftis
 Singaporean multilingual films
 Singaporean murder victims
 Singaporean murderers of children
-Singaporean music
 Singaporean music awards
 Singaporean music websites
 Singaporean musical comedy films
@@ -3637,6 +3637,7 @@ Video games developed in Singapore
 Vietnamese emigrants to Singapore
 Vietnamese expatriate sportspeople in Singapore
 Violence against children in Singapore
+Violence against LGBTQ people in Singapore
 Violence against men in Singapore
 Violence against women in Singapore
 Violence in Singapore
